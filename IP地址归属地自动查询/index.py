@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2019/1/29 16:21
+# @Time    : 2019/1/29 17:40
 # @Author  : Brady
 # @Email   : acheng_69@163.com
 # @File    : index.py
@@ -7,13 +7,14 @@
 
 import requests
 
-url = 'https://www.amazon.cn/gp/product/B01M8L5Z3Y'
+url = 'http://www.ip138.com/ips138.asp'
+kv = {'ip': '192.168.0.117', 'action': '2'}
+
 try:
-    kv = {'user-agent': 'Mozilla/5.0'}
-    r = requests.get(url, headers=kv)
+    r = requests.get(url, params=kv)
+    print(r.request.url)
     r.raise_for_status()
     r.encoding = r.apparent_encoding
-    print(r.text[1000:2000])
+    print(r.text[-500:])
 except:
     print('爬取失败')
-
