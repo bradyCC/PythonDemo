@@ -24,6 +24,6 @@ try:
             print('文件保存成功')
     else:
         print('文件已存在')
-except:
+except IOError:
     print('爬取失败')
 

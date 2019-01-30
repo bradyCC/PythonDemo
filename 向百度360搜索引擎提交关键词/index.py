@@ -26,5 +26,5 @@ try:
     print(r.request.url)
     r.raise_for_status()
     print(len(r.text))
-except:
+except IOError:
     print('爬取失败')

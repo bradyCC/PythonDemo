@@ -42,5 +42,5 @@ try:
     # for sibling in soup.a.previous_siblings:  # 平行遍历前续节点
     #     print(sibling)
     print(tag.prettify())  # HTML格式化
-except:
+except IOError:
     print('爬取失败')

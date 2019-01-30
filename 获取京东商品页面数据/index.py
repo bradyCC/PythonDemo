@@ -13,6 +13,6 @@ try:
     r.raise_for_status()
     r.encoding = r.apparent_encoding
     print(r.text[:1000])
-except:
+except IOError:
     print('爬取失败')
 

@@ -29,5 +29,5 @@ try:
     # re正则表达式库
     for tag in soup.find_all(re.compile('b')):
         print(tag.name)  # 返回所有包含b的标签的名字
-except:
+except IOError:
     print('爬取失败')

@@ -16,7 +16,7 @@ def getHTMLText(url):
         r.raise_for_status()
         r.encoding = r.apparent_encoding
         return r.text
-    except:
+    except IOError:
         return ''
 
 
