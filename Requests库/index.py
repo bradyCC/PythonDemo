@@ -5,6 +5,8 @@
 # @File    : index.py
 # @Software: PyCharm
 
+# 安装 python3 -m pip install requests
+
 import requests
 
 
