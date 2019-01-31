@@ -41,12 +41,15 @@ def getMusicUrl(mids):
 
 
 # 保存音乐
-def saveMusic(filename, url):
-    root = 'E://musics//'
-    path = root + filename + '.mp3'
+def saveMusic(filename, url, pathname):
+    root = 'E://MyMusic//'
+    pathname = root + pathname + '//'
+    path = pathname + filename + '.mp3'
     try:
         if not os.path.exists(root):
             os.mkdir(root)
+        if not os.path.exists(pathname):
+            os.mkdir(pathname)
         if not os.path.exists(path):
             r = requests.get(url)
             r.raise_for_status()
@@ -60,11 +63,12 @@ def saveMusic(filename, url):
 
 
 def main():
-    url = 'http://music.taihe.com/search?key=林俊杰'
+    keyword = '周杰伦'
+    url = 'http://music.taihe.com/search?key=' + keyword
     mid = getSongId(url)
     data = getMusicUrl(mid)
     for item in data:
-        saveMusic(json.loads(item[0])['songinfo']['title'], json.loads(item[0])['bitrate']['file_link'])
+        saveMusic(json.loads(item[0])['songinfo']['title'], json.loads(item[0])['bitrate']['file_link'], keyword)
 
 
 if __name__ == '__main__':
