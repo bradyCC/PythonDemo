@@ -8,7 +8,7 @@
 import requests
 import os
 
-root = 'D://pics//'
+root = 'E://pics//'
 url = 'http://picm.bbzhi.com/fengjingbizhi/alasijiahenanjizhoufeng/show_fengjingou_239550_m.jpg'
 path = root + url.split('/')[-1]
 
