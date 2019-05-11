@@ -52,7 +52,3 @@ print(classmates)
 
 # Python中，有一种数据类型是元祖：tuple - 一旦初始化就不能修改 tuple所谓的“不变”是说，tuple的每个元素，指向永远不变
 classmates = ('Michael', 'Bob', 'Tracy')
-
-#
-
-
