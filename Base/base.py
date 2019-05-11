@@ -37,10 +37,22 @@ print(len('中文'.encode('utf-8')))
 print('Hi, %s, you have $%d' % ('Brady', 10000))
 
 # 格式化整数和浮点数还可以指定是否补0和整数与小数的位数
-print('%2d - %02d' % (3 ,1))
+print('%2d - %02d' % (3, 1))
 
 # Python提供了 format() 函数 实现格式化字符串
 print('Hello, {0}, 成绩提升了 {1:.1f}%'.format('Brady', 17.125))
 
+# Python中，有一种数据类型是列表：list - 是一种有序的集合
+classmates = ['Michael', 'Bob', 'Tracy']
+classmates.append('Adam')                   # 添加
+classmates.insert(1, 'Jack')                # 插入
+classmates.pop(1)                           # 删除
+print(len(classmates))
+print(classmates)
+
+# Python中，有一种数据类型是元祖：tuple - 一旦初始化就不能修改 tuple所谓的“不变”是说，tuple的每个元素，指向永远不变
+classmates = ('Michael', 'Bob', 'Tracy')
+
+#
 
 
