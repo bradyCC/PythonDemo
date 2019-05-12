@@ -18,5 +18,9 @@
 #
 # print(hex(255))         # 转换为十六进制整数
 
+from addend import add_end
+
+print(add_end([1, 2, 3]))
+
 
 
