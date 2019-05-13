@@ -11,7 +11,6 @@
 # urllib.parse  url解析模块
 # urllib.robotparser  robots.txt解析模块
 
-
 import urllib.request
 
 file = urllib.request.urlopen('http://www.baidu.com')
@@ -19,7 +18,3 @@ data = file.read()
 with open('./1.html', 'wb') as f:
     f.write(data)
     f.close()
-
-
-
-
