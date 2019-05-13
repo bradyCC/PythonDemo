@@ -7,14 +7,18 @@
 
 import requests
 
-url = 'http://www.ip138.com/ips138.asp'
-kv = {'ip': '192.168.0.117', 'action': '2'}
 
-try:
-    r = requests.get(url, params=kv)
-    print(r.request.url)
-    r.raise_for_status()
-    r.encoding = r.apparent_encoding
-    print(r.text[-500:])
-except IOError:
-    print('爬取失败')
+def getAttribution(url, kv):
+    try:
+        r = requests.get(url, params=kv)
+        r.raise_for_status()
+        r.encoding = r.apparent_encoding
+        return r.text[:-500]
+    except IOError:
+        print('爬取失败')
+
+if __name__ == '__main__':
+    url = 'http://www.ip138.com/ips138.asp'
+    kv = {'ip': '192.168.1.119', 'action': '2'}
+
+    print(getAttribution(url, kv))
