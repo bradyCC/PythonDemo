@@ -43,16 +43,25 @@ print('%2d - %02d' % (3, 1))
 print('Hello, {0}, 成绩提升了 {1:.1f}%'.format('Brady', 17.125))
 
 # Python中，有一种数据类型是列表：list - 是一种有序的集合
-classmates = ['Michael', 'Bob', 'Tracy']
-classmates.append('Adam')                   # 添加
-classmates.insert(1, 'Jack')                # 插入
-classmates.pop(1)                           # 删除
-print(len(classmates))
-print(classmates)
+a = ['Michael', 'Bob', 'Tracy']
+a.append('Adam')                   # 添加
+a.insert(1, 'Jack')                # 插入
+a.pop(1)                           # 删除
+print(len(a))
+print(a)
 
 # Python中，有一种数据类型是元祖：tuple - 一旦初始化就不能修改 tuple所谓的“不变”是说，tuple的每个元素，指向永远不变
 classmates = ('Michael', 'Bob', 'Tracy')
 
-#
+# Python中判断key是否存在的方法有两种： 1- key in dist  2- d.get(key)
+d = {'Michael': 95, 'Bob': 75, 'Tracy': 85}
+d['Michael'] = 80                            # 赋值
+print(d['Michael'])
+d.pop('Bob')                                 # 删除
+print(d)
 
-
+# set类似于dict，是一组key的集合，但不存储value，key值不能重复
+s = set([1,2,3,3])
+s.add(4)
+s.remove(1)
+print(s)
