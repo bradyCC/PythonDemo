@@ -10,21 +10,26 @@
 
 import requests
 
-# 百度
-url = 'https://www.baidu.com/s'
-key = 'wd'
-keyword = 'Python'
 
-# 360
-# url = 'https://www.so.com/s'
-# key = 'q'
-# keyword = 'Javascript'
+def getHTMLText(url, kv):
+    try:
+        r = requests.get(url, params=kv)
+        r.raise_for_status()
+        r.encoding = r.apparent_encoding
+        print(r.request.url)
+        print(len(r.text))
+        return r.text
+    except IOError:
+        print('爬取失败')
 
-try:
-    kv = {key: keyword}
-    r = requests.get(url, params=kv)
-    print(r.request.url)
-    r.raise_for_status()
-    print(len(r.text))
-except IOError:
-    print('爬取失败')
+
+if __name__ == '__main__':
+    # 百度
+    # url = 'http://www.baidu.com/s'
+    # kv = {'wd': 'Python'}
+
+    # 360
+    url = 'http://www.so.com/s'
+    kv = {'q': 'Javascript'}
+
+    print(getHTMLText(url, kv))
