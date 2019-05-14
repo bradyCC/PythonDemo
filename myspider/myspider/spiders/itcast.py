@@ -4,9 +4,6 @@ import logging
 logger = logging.getLogger(__name__)
 
 
-# 创建scrapy项目 scrapy startproject 项目名
-# 创建爬虫 scrapy genspider 爬虫名 爬取地址
-# 启动爬虫 scrapy crawl itcast
 class ItcastSpider(scrapy.Spider):
     name = 'itcast'                                                     # 爬虫名
     allowed_domains = ['itcast.cn']                                     # 允许爬取的范围

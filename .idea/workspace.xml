@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a4e9700-8243-4fcf-8e65-c9d9ba611dc4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/myspider/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myspider/logger.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myspider/myspider/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/myspider/myspider/pipelines.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myspider/myspider/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myspider/myspider/settings.py" afterDir="false" />
@@ -48,15 +46,26 @@
     <select />
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="Python" />
+    <favorites_list name="Python">
+      <favorite_root url="file://$PROJECT_DIR$/myspider/myspider/spiders/tencent.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myspider/myspider/spiders/itcast.py">
+        <entry file="file://$PROJECT_DIR$/myspider/myspider/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="151">
+              <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myspider/myspider/spiders/sun.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
@@ -64,14 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/myspider/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="425">
-                <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
-              </first_editor>
-              <second_editor />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myspider/myspider/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -88,6 +94,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>header</find>
+      <find>User</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -138,11 +145,15 @@
         <option value="$PROJECT_DIR$/网络爬虫/Urllib库/index.py" />
         <option value="$PROJECT_DIR$/mySpiderl/mySpiderl/spiders/itcast.py" />
         <option value="$PROJECT_DIR$/mySpider/scrapy.cfg" />
-        <option value="$PROJECT_DIR$/myspider/myspider/settings.py" />
         <option value="$PROJECT_DIR$/myspider/logger.py" />
-        <option value="$PROJECT_DIR$/myspider/myspider/spiders/itcast.py" />
-        <option value="$PROJECT_DIR$/myspider/myspider/pipelines.py" />
         <option value="$PROJECT_DIR$/myspider/README.md" />
+        <option value="$PROJECT_DIR$/myspider/myspider/spiders/itcast.py" />
+        <option value="$PROJECT_DIR$/myspider/myspider/spiders/sina.py" />
+        <option value="$PROJECT_DIR$/myspider/myspider/spiders/tencent.py" />
+        <option value="$PROJECT_DIR$/myspider/myspider/settings.py" />
+        <option value="$PROJECT_DIR$/myspider/log.log" />
+        <option value="$PROJECT_DIR$/myspider/myspider/pipelines.py" />
+        <option value="$PROJECT_DIR$/myspider/myspider/spiders/sun.py" />
       </list>
     </option>
   </component>
@@ -174,19 +185,6 @@
               <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
               <item name="myspider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="myspider" type="462c0819:PsiDirectoryNode" />
-              <item name="myspider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="myspider" type="462c0819:PsiDirectoryNode" />
-              <item name="myspider" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -327,7 +325,8 @@
       <workItem from="1557728152614" duration="86000" />
       <workItem from="1557728240642" duration="7768000" />
       <workItem from="1557736546371" duration="5207000" />
-      <workItem from="1557795403744" duration="5159000" />
+      <workItem from="1557795403744" duration="8315000" />
+      <workItem from="1557804327921" duration="4530000" />
     </task>
     <task id="LOCAL-00001" summary="Python Demo">
       <created>1548150755547</created>
@@ -504,11 +503,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557741492201</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Python Demo">
+      <created>1557801217029</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1557801217029</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93871000" />
+    <option name="totallyTimeSpent" value="101557000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -523,7 +529,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.18176973" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.18336888" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info id="Favorites" order="2" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -550,6 +556,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -596,31 +605,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Python Demo" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PythonBase/OOP/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/modules/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/OOP/test.py" />
-    <entry file="file://D:/Python37/Lib/site-packages/IPython/core/interactiveshell.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="3266" selection-start-line="3266" selection-end-line="3266" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1410413755/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="815" column="8" selection-start-line="815" selection-start-column="8" selection-end-line="815" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PythonBase/enum/index.py" />
     <entry file="file://$PROJECT_DIR$/PythonBase/exception/index.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -802,55 +786,81 @@
     <entry file="file://$PROJECT_DIR$/mySpiderl/mySpiderl/settings.py" />
     <entry file="file://$PROJECT_DIR$/mySpiderl/scrapy.cfg" />
     <entry file="file://$PROJECT_DIR$/mySpiderl/mySpiderl/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/mySpiderl/mySpiderl/spiders/itcast.py" />
+    <entry file="file://$PROJECT_DIR$/myspider/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="459">
+            <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/myspider/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspider/myspider/middlewares.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mySpiderl/mySpiderl/spiders/itcast.py" />
-    <entry file="file://$PROJECT_DIR$/myspider/logger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/myspider/myspider/items.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/myspider/log.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="60" lean-forward="true" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myspider/myspider/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myspider/myspider/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/myspider/myspider/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/myspider/myspider/spiders/itcast.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="18" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myspider/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="425">
-            <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/myspider/myspider/spiders/tencent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspider/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspider/myspider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspider/log.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspider/myspider/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspider/myspider/spiders/sun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
