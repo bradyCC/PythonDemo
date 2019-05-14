@@ -37,3 +37,8 @@ name = 'itcast'                                                     # 爬虫名
 allowed_domains = ['itcast.cn']                                     # 允许爬取的范围
 start_urls = ['http://www.itcast.cn/channel/teacher.shtml']         # 最开始请求的url地址
 ```  
+
+## Scrapy Shell - scrapy shell 交互终端
+
+> 命令： scrapy shell http://www.baidu.com
+
