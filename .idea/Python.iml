@@ -10,6 +10,8 @@
       <sourceFolder url="file://$MODULE_DIR$/PythonBase/enum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PythonBase/exception" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PythonBase/OOP" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myspider" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sunshine" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (PythonDemo)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

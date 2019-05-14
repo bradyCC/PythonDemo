@@ -8,9 +8,11 @@
 import scrapy
 
 
-class MyspiderItem(scrapy.Item):
+class SunshineItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    name = scrapy.Field()
     title = scrapy.Field()
-
+    href = scrapy.Field()
+    date_time = scrapy.Field()
+    content = scrapy.Field()
+    content_img = scrapy.Field()
