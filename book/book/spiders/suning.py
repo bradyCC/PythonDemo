@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 import scrapy
+import logging
+from copy import deepcopy
 
+logger = logging.getLogger(__name__)
 
 class SuningSpider(scrapy.Spider):
     name = 'suning'
@@ -21,14 +24,12 @@ class SuningSpider(scrapy.Spider):
                yield scrapy.Request(
                    item["b_href"][0],
                    callback = self.parse_book_list,
-                   meta = {"item": item}
+                   meta = {"item": deepcopy(item)}
                )
 
     def parse_book_list(self, response):
         item = response.meta["item"]
-        list = response.xpath("//li[@class='product']")
+        list = response.xpath("//div[@id='filter-results']//li")
         for l_list in list:
-            item["book_name"] = l_list.xpath("//p[@class='sell-point']/a/text()")
-        #     item["book_shop_name"] = l_list.xpath("//p[@class='seller']/a/text()")
-        #     item["book_price"] = l_list.xpath("//p[@class='prive-tag']/em/text()")
-            print(item)
+            item["book_name"] = l_list.xpath(".//p[@class='sell-point']/a/text()").extract_first()
+        yield item
