@@ -1,6 +1,11 @@
 # -*- coding: utf-8 -*-
 import scrapy
+import logging
+logger = logging.getLogger(__name__)
 
+
+# 创建scrapy项目 scrapy startproject 项目名
+# 创建爬虫 scrapy genspider 爬虫名 爬取地址
 # 启动爬虫 scrapy crawl itcast
 class ItcastSpider(scrapy.Spider):
     name = 'itcast'                                                     # 爬虫名
@@ -18,4 +23,5 @@ class ItcastSpider(scrapy.Spider):
             item = {}
             item["name"] = li.xpath(".//h3/text()").extract_first()
             item["title"] = li.xpath(".//h4/text()").extract_first()
+            logger.warning(item)
             yield item
