@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a4e9700-8243-4fcf-8e65-c9d9ba611dc4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myspider/log.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/myspider/myspider/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/myspider/myspider/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myspider/myspider/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myspider/myspider/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myspider/myspider/spiders/itcast.py" beforeDir="false" afterPath="$PROJECT_DIR$/myspider/myspider/spiders/itcast.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myspider/myspider/spiders/sun.py" beforeDir="false" afterPath="$PROJECT_DIR$/myspider/myspider/spiders/sun.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myspider/myspider/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="36" />
+            <state relative-caret-position="440">
+              <caret line="26" column="73" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -64,20 +63,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/myspider/myspider/spiders/sun.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+            <state relative-caret-position="357">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myspider/myspider/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -326,7 +316,7 @@
       <workItem from="1557728240642" duration="7768000" />
       <workItem from="1557736546371" duration="5207000" />
       <workItem from="1557795403744" duration="8315000" />
-      <workItem from="1557804327921" duration="4530000" />
+      <workItem from="1557804327921" duration="5097000" />
     </task>
     <task id="LOCAL-00001" summary="Python Demo">
       <created>1548150755547</created>
@@ -510,11 +500,25 @@
       <option name="project" value="LOCAL" />
       <updated>1557801217029</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Scrapy">
+      <created>1557812531405</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1557812531405</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Scrapy">
+      <created>1557812574821</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1557812574821</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101557000" />
+    <option name="totallyTimeSpent" value="102124000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -529,7 +533,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.18336888" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.18336888" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info id="Favorites" order="2" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -543,7 +547,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49253732" weight="0.3253796" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.48827294" side_tool="true" weight="0.32104123" />
-      <window_info anchor="bottom" x="-144" y="704" width="1876" height="275" id="Terminal" order="11" sideWeight="0.5117271" visible="true" weight="0.32104123" />
+      <window_info active="true" anchor="bottom" x="-144" y="704" width="1876" height="275" id="Terminal" order="11" sideWeight="0.5117271" visible="true" weight="0.32104123" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49093816" weight="0.3253796" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -602,7 +606,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Python Demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python Demo" />
+    <MESSAGE value="Scrapy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scrapy" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PythonBase/enum/index.py" />
@@ -839,25 +844,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myspider/myspider/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="306">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myspider/log.log">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myspider/myspider/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="36" />
+        <state relative-caret-position="440">
+          <caret line="26" column="73" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myspider/myspider/spiders/sun.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        <state relative-caret-position="357">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>

@@ -20,9 +20,9 @@ class MyspiderPipeline(object):
         return item
 
 
-class MyspiderPipelineSun(object):
+class MyspiderPipeline(object):
     def process_item(self, item, spider):
         if spider.name == 'sun':
             # collection.insert(item)
-            logger.warning('-'*10 + 'this is MyspiderPipelineSun' + '-'*10)
+            logger.warning('-'*20 + 'this is MyspiderPipelineSun' + '-'*20)
         return item
