@@ -15,6 +15,5 @@ logger = logging.getLogger(__name__)
 class MyspiderPipeline(object):
     def process_item(self, item, spider):
         if spider.name == 'itcast':
-            # logger.warning('this is itcast-pipeline')
-            pass
+            logger.warning('-' * 10 + ' This is MyspiderPipeline itcast ' + '-' * 10)
         return item

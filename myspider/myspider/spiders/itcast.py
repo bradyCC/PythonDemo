@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 import scrapy
 import logging
+from myspider.items import MyspiderItem
+
 logger = logging.getLogger(__name__)
 
 
@@ -13,8 +15,8 @@ class ItcastSpider(scrapy.Spider):
         # 分组
         li_list = response.xpath("//div[@class='tea_con']//li")
         for li in li_list:
-            item = {}
+            item = MyspiderItem()
             item["name"] = li.xpath(".//h3/text()").extract_first()
             item["title"] = li.xpath(".//h4/text()").extract_first()
             logger.warning(item)
-            yield item
+        yield item

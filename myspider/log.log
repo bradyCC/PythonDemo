@@ -1,158 +1,288 @@
-2019-05-14 13:48:15 [myspider.spiders.sun] WARNING: {'title': '浴火重生再出发——写在新一轮东北振兴战略实施三周年之际', 'comtent': '看未来，还有一处处激流险滩要过，还有一个个雄关险隘要闯，唯有瞄准方向、保持定力，一以贯之、久久为功，才能迈向振兴！ ', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103460.shtml', 'time': '2019-05-14 10:13'}
-2019-05-14 13:48:15 [myspider.spiders.sun] WARNING: {'title': '“文明互鉴推动和谐、和平与繁荣”——访新加坡总统哈莉玛', 'comtent': '在出席亚洲文明对话大会前夕，新加坡总统哈莉玛接受了本报记者专访。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103454.shtml', 'time': '2019-05-14 10:10'}
-2019-05-14 13:48:15 [myspider.spiders.sun] WARNING: {'title': '剧透来了！美食展览加演出，这个大会亮点多', 'comtent': '5月，亚洲文明对话大会将在北京举行，意在传承弘扬亚洲和世界各国璀璨辉煌的文明成果。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103432.shtml', 'time': '2019-05-14 09:55'}
-2019-05-14 13:48:15 [myspider.spiders.sun] WARNING: {'title': '打造新供给 激发新动能——从制造业“变身”看中国经济动力', 'comtent': '工厂“玩”起了“爆品”集市、“快闪式”制造在品牌间兴起、“国潮”风加速跨界融合……一段时间以来，中国制造发生了不小的变化。这些融入了新理念、新技术、新模式的“制造之变”不断释放发展...', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103436.shtml', 'time': '2019-05-14 09:55'}
-2019-05-14 13:48:15 [myspider.spiders.sun] WARNING: {'title': '书写美美与共的文明互鉴新画卷', 'comtent': '文明因交流而多彩，文明因互鉴而丰富。亚洲文明对话大会将在北京启幕，亚洲各国文明对话交流，凝聚共识，激发共鸣，激扬自信，打造共同繁荣的精神家园。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103437.shtml', 'time': '2019-05-14 09:55'}
-2019-05-14 13:48:15 [myspider.spiders.sun] WARNING: {'title': '新一轮改革开放将给亚洲与全世界带来红利', 'comtent': '当下，无论是中国还是世界，都处在巨变的十字路口。21世纪第二个10年不平静，但世界仍然有继续繁荣发展的希望，最重要的一环就是亚洲的发展。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103441.shtml', 'time': '2019-05-14 09:55'}
-2019-05-14 13:48:15 [myspider.spiders.sun] WARNING: {'title': '中国经济：持续释放大国的优势和潜力', 'comtent': '中国经济发展韧性好，调整适应能力强', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103442.shtml', 'time': '2019-05-14 09:55'}
-2019-05-14 13:48:15 [myspider.spiders.sun] WARNING: {'title': '中国首次举办集大成亚洲文明展览 49国451件组文物诠释多元文明之美', 'comtent': '5月13日上午，由文化和旅游部、国家文物局主办，中国国家博物馆与中国文物交流中心共同承办“大美亚细亚——亚洲文明展”在中国国家博物馆开幕。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103449.shtml', 'time': '2019-05-14 09:55'}
-2019-05-14 13:48:15 [myspider.spiders.sun] WARNING: {'title': '我国将全面建立统一的城乡居民医保制度', 'comtent': '国家医保局会同财政部日前印发《关于做好2019年城乡居民基本医疗保障工作的通知》，要求全面建立统一的城乡居民医保制度。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103451.shtml', 'time': '2019-05-14 09:55'}
-2019-05-14 13:48:15 [myspider.spiders.sun] WARNING: {'title': '七名甘肃森林消防退伍老兵主动归队参加火灾救援——“需要我，我必回！”', 'comtent': '“虽然退伍了，需要我，我必回！”这是7名山西籍的森林消防退伍老兵在退伍时作出的庄严承诺。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103453.shtml', 'time': '2019-05-14 09:55'}
-2019-05-14 13:48:15 [myspider.spiders.sun] WARNING: {'title': '为海洋装备披上“铠甲”的人——记“80后”研究员王立平', 'comtent': '获得第23届“中国青年五四奖章”后，中科院宁波材料所青年研究员王立平马不停蹄地赶往各个临海试验基地和重大示范工程所在地，查看海洋环境适应性数据和工程的应用效果。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103457.shtml', 'time': '2019-05-14 09:55'}
-2019-05-14 13:48:15 [myspider.spiders.sun] WARNING: {'title': '中央扫黑除恶督导“回头看”工作汇报会在广州召开 吴玉良马兴瑞出席会议并讲话', 'comtent': '5月13日上午，中央扫黑除恶督导“回头看”工作汇报会在广州召开。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103327.shtml', 'time': '2019-05-14 08:57'}
-2019-05-14 13:48:15 [myspider.spiders.sun] WARNING: {'title': '汇聚媒体力量 助建一流湾区', 'comtent': '本届峰会议题丰富，300多名嘉宾、参会代表云集广州，就如何开展创新与协同合作、如何推进媒体融合、助推粤港澳大湾区建设等展开深入沟通交流。目前各项筹备工作已基本准备就绪。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103328.shtml', 'time': '2019-05-14 08:57'}
-2019-05-14 13:48:15 [myspider.spiders.sun] WARNING: {'title': '重磅微视频｜发展之桥', 'comtent': '在漫长历史长河中，亚洲众多璀璨绚丽的古老文明交相辉映、相得益彰。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103382.shtml', 'time': '2019-05-14 08:57'}
-2019-05-14 13:48:15 [myspider.spiders.sun] WARNING: {'title': '社评：美方不断嚣张喊话，实为自我打气', 'comtent': '白宫经济顾问库德洛12日在被电视记者问到谁将为美国征收的巨额关税买单时，表示“双方都会受到影响”。比如白宫反复说增收关税对美国经济和国民福利都是好事，强调美国一年能征收1000亿美元关税...', 'url': 'http://news.sun0769.com/national/zh/201905/t20190513_8103100.shtml', 'time': '2019-05-13 23:44'}
-2019-05-14 13:48:15 [myspider.spiders.sun] WARNING: {'title': '美国“旧船票”登不上各国“新客船”', 'comtent': '有一本世界名著，美国人应该拿来读一读。傲慢看世界，偏见看中国，似乎是少数美国政客的专利。我们也要感谢美国，再一次让中国人隔空看清了太平洋对岸的风景，再一次增强了中华民族的凝聚力和中...', 'url': 'http://news.sun0769.com/national/zh/201905/t20190513_8103092.shtml', 'time': '2019-05-13 23:05'}
-2019-05-14 13:48:15 [myspider.spiders.sun] WARNING: {'title': '共绘聚同化异的人类文明画卷', 'comtent': '亚洲文明对话大会将于5月15日在北京开幕。我们期待，借助亚洲文明对话大会这个平台，与会各方聚同化异、开放包容，推动文明交流互鉴成为增进各国人民友谊的桥梁、推动人类社会进步的动力、维护世...', 'url': 'http://news.sun0769.com/national/zh/201905/t20190513_8103091.shtml', 'time': '2019-05-13 23:00'}
-2019-05-14 13:48:15 [myspider.spiders.sun] WARNING: {'title': '中共中央政治局召开会议 研究部署在全党开展“不忘初心、牢记使命”主题教育工作 审议《长江三角洲区域一体化发展规划纲要》 中共中央总书记习近平主持会议', 'comtent': '中共中央政治局5月13日召开会议，决定从今年6月开始，在全党自上而下分两批开展“不忘初心、牢记使命”主题教育。长三角一体化发展具有极大的区域带动和示范作用，要紧扣“一体化”和“高质量”...', 'url': 'http://news.sun0769.com/national/zh/201905/t20190513_8103089.shtml', 'time': '2019-05-13 22:40'}
-2019-05-14 13:48:15 [myspider.spiders.sun] WARNING: {'title': '《亚洲 文明之光》 第二集 传承创新', 'comtent': '我们的亚洲，如此的多姿多彩，和而不同，每一种文明都延续着一个国家和民族的精神血脉，既需要薪火相传、代代守护，更需要与时俱进、勇于创新。回望历史，亚洲价值、东方智慧已然穿越了时光，启...', 'url': 'http://news.sun0769.com/national/zh/201905/t20190513_8103090.shtml', 'time': '2019-05-13 22:40'}
-2019-05-14 13:48:15 [myspider.spiders.sun] WARNING: {'title': '记者眼中的“两弹精神”：你愿意为祖国付出什么？', 'comtent': '5月12日，新闻联播头条播出《【壮丽70年·奋斗新时代】“两弹城”：穿越半个世纪的两弹精神》节目。斑驳的红砖墙，阴冷狭长的山洞，半个多世纪过去了，这里的一切却还在诉说着那个“干惊天动地事...', 'url': 'http://news.sun0769.com/national/zh/201905/t20190513_8103088.shtml', 'time': '2019-05-13 22:38'}
-2019-05-14 13:48:15 [myspider.pipelines] WARNING: --------------------this is MyspiderPipelineSun--------------------
-2019-05-14 13:48:42 [myspider.spiders.sun] WARNING: {'title': '浴火重生再出发——写在新一轮东北振兴战略实施三周年之际', 'comtent': '看未来，还有一处处激流险滩要过，还有一个个雄关险隘要闯，唯有瞄准方向、保持定力，一以贯之、久久为功，才能迈向振兴！ ', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103460.shtml', 'time': '2019-05-14 10:13'}
-2019-05-14 13:48:42 [myspider.spiders.sun] WARNING: {'title': '“文明互鉴推动和谐、和平与繁荣”——访新加坡总统哈莉玛', 'comtent': '在出席亚洲文明对话大会前夕，新加坡总统哈莉玛接受了本报记者专访。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103454.shtml', 'time': '2019-05-14 10:10'}
-2019-05-14 13:48:42 [myspider.spiders.sun] WARNING: {'title': '剧透来了！美食展览加演出，这个大会亮点多', 'comtent': '5月，亚洲文明对话大会将在北京举行，意在传承弘扬亚洲和世界各国璀璨辉煌的文明成果。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103432.shtml', 'time': '2019-05-14 09:55'}
-2019-05-14 13:48:42 [myspider.spiders.sun] WARNING: {'title': '打造新供给 激发新动能——从制造业“变身”看中国经济动力', 'comtent': '工厂“玩”起了“爆品”集市、“快闪式”制造在品牌间兴起、“国潮”风加速跨界融合……一段时间以来，中国制造发生了不小的变化。这些融入了新理念、新技术、新模式的“制造之变”不断释放发展...', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103436.shtml', 'time': '2019-05-14 09:55'}
-2019-05-14 13:48:42 [myspider.spiders.sun] WARNING: {'title': '书写美美与共的文明互鉴新画卷', 'comtent': '文明因交流而多彩，文明因互鉴而丰富。亚洲文明对话大会将在北京启幕，亚洲各国文明对话交流，凝聚共识，激发共鸣，激扬自信，打造共同繁荣的精神家园。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103437.shtml', 'time': '2019-05-14 09:55'}
-2019-05-14 13:48:42 [myspider.spiders.sun] WARNING: {'title': '新一轮改革开放将给亚洲与全世界带来红利', 'comtent': '当下，无论是中国还是世界，都处在巨变的十字路口。21世纪第二个10年不平静，但世界仍然有继续繁荣发展的希望，最重要的一环就是亚洲的发展。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103441.shtml', 'time': '2019-05-14 09:55'}
-2019-05-14 13:48:42 [myspider.spiders.sun] WARNING: {'title': '中国经济：持续释放大国的优势和潜力', 'comtent': '中国经济发展韧性好，调整适应能力强', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103442.shtml', 'time': '2019-05-14 09:55'}
-2019-05-14 13:48:42 [myspider.spiders.sun] WARNING: {'title': '中国首次举办集大成亚洲文明展览 49国451件组文物诠释多元文明之美', 'comtent': '5月13日上午，由文化和旅游部、国家文物局主办，中国国家博物馆与中国文物交流中心共同承办“大美亚细亚——亚洲文明展”在中国国家博物馆开幕。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103449.shtml', 'time': '2019-05-14 09:55'}
-2019-05-14 13:48:42 [myspider.spiders.sun] WARNING: {'title': '我国将全面建立统一的城乡居民医保制度', 'comtent': '国家医保局会同财政部日前印发《关于做好2019年城乡居民基本医疗保障工作的通知》，要求全面建立统一的城乡居民医保制度。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103451.shtml', 'time': '2019-05-14 09:55'}
-2019-05-14 13:48:42 [myspider.spiders.sun] WARNING: {'title': '七名甘肃森林消防退伍老兵主动归队参加火灾救援——“需要我，我必回！”', 'comtent': '“虽然退伍了，需要我，我必回！”这是7名山西籍的森林消防退伍老兵在退伍时作出的庄严承诺。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103453.shtml', 'time': '2019-05-14 09:55'}
-2019-05-14 13:48:42 [myspider.spiders.sun] WARNING: {'title': '为海洋装备披上“铠甲”的人——记“80后”研究员王立平', 'comtent': '获得第23届“中国青年五四奖章”后，中科院宁波材料所青年研究员王立平马不停蹄地赶往各个临海试验基地和重大示范工程所在地，查看海洋环境适应性数据和工程的应用效果。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103457.shtml', 'time': '2019-05-14 09:55'}
-2019-05-14 13:48:42 [myspider.spiders.sun] WARNING: {'title': '中央扫黑除恶督导“回头看”工作汇报会在广州召开 吴玉良马兴瑞出席会议并讲话', 'comtent': '5月13日上午，中央扫黑除恶督导“回头看”工作汇报会在广州召开。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103327.shtml', 'time': '2019-05-14 08:57'}
-2019-05-14 13:48:42 [myspider.spiders.sun] WARNING: {'title': '汇聚媒体力量 助建一流湾区', 'comtent': '本届峰会议题丰富，300多名嘉宾、参会代表云集广州，就如何开展创新与协同合作、如何推进媒体融合、助推粤港澳大湾区建设等展开深入沟通交流。目前各项筹备工作已基本准备就绪。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103328.shtml', 'time': '2019-05-14 08:57'}
-2019-05-14 13:48:42 [myspider.spiders.sun] WARNING: {'title': '重磅微视频｜发展之桥', 'comtent': '在漫长历史长河中，亚洲众多璀璨绚丽的古老文明交相辉映、相得益彰。', 'url': 'http://news.sun0769.com/national/zh/201905/t20190514_8103382.shtml', 'time': '2019-05-14 08:57'}
-2019-05-14 13:48:42 [myspider.spiders.sun] WARNING: {'title': '社评：美方不断嚣张喊话，实为自我打气', 'comtent': '白宫经济顾问库德洛12日在被电视记者问到谁将为美国征收的巨额关税买单时，表示“双方都会受到影响”。比如白宫反复说增收关税对美国经济和国民福利都是好事，强调美国一年能征收1000亿美元关税...', 'url': 'http://news.sun0769.com/national/zh/201905/t20190513_8103100.shtml', 'time': '2019-05-13 23:44'}
-2019-05-14 13:48:42 [myspider.spiders.sun] WARNING: {'title': '美国“旧船票”登不上各国“新客船”', 'comtent': '有一本世界名著，美国人应该拿来读一读。傲慢看世界，偏见看中国，似乎是少数美国政客的专利。我们也要感谢美国，再一次让中国人隔空看清了太平洋对岸的风景，再一次增强了中华民族的凝聚力和中...', 'url': 'http://news.sun0769.com/national/zh/201905/t20190513_8103092.shtml', 'time': '2019-05-13 23:05'}
-2019-05-14 13:48:42 [myspider.spiders.sun] WARNING: {'title': '共绘聚同化异的人类文明画卷', 'comtent': '亚洲文明对话大会将于5月15日在北京开幕。我们期待，借助亚洲文明对话大会这个平台，与会各方聚同化异、开放包容，推动文明交流互鉴成为增进各国人民友谊的桥梁、推动人类社会进步的动力、维护世...', 'url': 'http://news.sun0769.com/national/zh/201905/t20190513_8103091.shtml', 'time': '2019-05-13 23:00'}
-2019-05-14 13:48:42 [myspider.spiders.sun] WARNING: {'title': '中共中央政治局召开会议 研究部署在全党开展“不忘初心、牢记使命”主题教育工作 审议《长江三角洲区域一体化发展规划纲要》 中共中央总书记习近平主持会议', 'comtent': '中共中央政治局5月13日召开会议，决定从今年6月开始，在全党自上而下分两批开展“不忘初心、牢记使命”主题教育。长三角一体化发展具有极大的区域带动和示范作用，要紧扣“一体化”和“高质量”...', 'url': 'http://news.sun0769.com/national/zh/201905/t20190513_8103089.shtml', 'time': '2019-05-13 22:40'}
-2019-05-14 13:48:42 [myspider.spiders.sun] WARNING: {'title': '《亚洲 文明之光》 第二集 传承创新', 'comtent': '我们的亚洲，如此的多姿多彩，和而不同，每一种文明都延续着一个国家和民族的精神血脉，既需要薪火相传、代代守护，更需要与时俱进、勇于创新。回望历史，亚洲价值、东方智慧已然穿越了时光，启...', 'url': 'http://news.sun0769.com/national/zh/201905/t20190513_8103090.shtml', 'time': '2019-05-13 22:40'}
-2019-05-14 13:48:42 [myspider.spiders.sun] WARNING: {'title': '记者眼中的“两弹精神”：你愿意为祖国付出什么？', 'comtent': '5月12日，新闻联播头条播出《【壮丽70年·奋斗新时代】“两弹城”：穿越半个世纪的两弹精神》节目。斑驳的红砖墙，阴冷狭长的山洞，半个多世纪过去了，这里的一切却还在诉说着那个“干惊天动地事...', 'url': 'http://news.sun0769.com/national/zh/201905/t20190513_8103088.shtml', 'time': '2019-05-13 22:38'}
-2019-05-14 13:48:42 [myspider.pipelines] WARNING: --------------------this is MyspiderPipelineSun--------------------
-2019-05-14 13:54:21 [scrapy.core.scraper] ERROR: Spider error processing <GET http://news.sun0769.com/national/> (referer: None)
-Traceback (most recent call last):
-  File "d:\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
-    yield next(it)
-  File "d:\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
-    for x in result:
-  File "d:\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
-    return (_set_referer(r) for r in result or ())
-  File "d:\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
-    return (r for r in result or () if _filter(r))
-  File "d:\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
-    return (r for r in result or () if _filter(r))
-  File "D:\MyWork\PythonDemo\myspider\myspider\spiders\sun.py", line 20, in parse
-    item["comtent"] = li.xpath("./dd/span/a/text()").extract_first()
-  File "d:\python37\lib\site-packages\scrapy\item.py", line 66, in __setitem__
-    (self.__class__.__name__, key))
-KeyError: 'MyspiderItem does not support field: comtent'
-2019-05-14 13:54:56 [scrapy.core.scraper] ERROR: Spider error processing <GET http://news.sun0769.com/national/> (referer: None)
-Traceback (most recent call last):
-  File "d:\python37\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
-    yield next(it)
-  File "d:\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
-    for x in result:
-  File "d:\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
-    return (_set_referer(r) for r in result or ())
-  File "d:\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
-    return (r for r in result or () if _filter(r))
-  File "d:\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
-    return (r for r in result or () if _filter(r))
-  File "D:\MyWork\PythonDemo\myspider\myspider\spiders\sun.py", line 21, in parse
-    item["url"] = li.xpath("./h2/a/@href").extract_first()
-  File "d:\python37\lib\site-packages\scrapy\item.py", line 66, in __setitem__
-    (self.__class__.__name__, key))
-KeyError: 'MyspiderItem does not support field: url'
-2019-05-14 13:55:14 [myspider.spiders.sun] WARNING: {'content': '看未来，还有一处处激流险滩要过，还有一个个雄关险隘要闯，唯有瞄准方向、保持定力，一以贯之、久久为功，才能迈向振兴！ ',
- 'date_time': '2019-05-14 10:13',
- 'href': 'http://news.sun0769.com/national/zh/201905/t20190514_8103460.shtml',
- 'title': '浴火重生再出发——写在新一轮东北振兴战略实施三周年之际'}
-2019-05-14 13:55:14 [myspider.spiders.sun] WARNING: {'content': '在出席亚洲文明对话大会前夕，新加坡总统哈莉玛接受了本报记者专访。',
- 'date_time': '2019-05-14 10:10',
- 'href': 'http://news.sun0769.com/national/zh/201905/t20190514_8103454.shtml',
- 'title': '“文明互鉴推动和谐、和平与繁荣”——访新加坡总统哈莉玛'}
-2019-05-14 13:55:14 [myspider.spiders.sun] WARNING: {'content': '5月，亚洲文明对话大会将在北京举行，意在传承弘扬亚洲和世界各国璀璨辉煌的文明成果。',
- 'date_time': '2019-05-14 09:55',
- 'href': 'http://news.sun0769.com/national/zh/201905/t20190514_8103432.shtml',
- 'title': '剧透来了！美食展览加演出，这个大会亮点多'}
-2019-05-14 13:55:14 [myspider.spiders.sun] WARNING: {'content': '工厂“玩”起了“爆品”集市、“快闪式”制造在品牌间兴起、“国潮”风加速跨界融合……一段时间以来，中国制造发生了不小的变化。这些融入了新理念、新技术、新模式的“制造之变”不断释放发展...',
- 'date_time': '2019-05-14 09:55',
- 'href': 'http://news.sun0769.com/national/zh/201905/t20190514_8103436.shtml',
- 'title': '打造新供给 激发新动能——从制造业“变身”看中国经济动力'}
-2019-05-14 13:55:14 [myspider.spiders.sun] WARNING: {'content': '文明因交流而多彩，文明因互鉴而丰富。亚洲文明对话大会将在北京启幕，亚洲各国文明对话交流，凝聚共识，激发共鸣，激扬自信，打造共同繁荣的精神家园。',
- 'date_time': '2019-05-14 09:55',
- 'href': 'http://news.sun0769.com/national/zh/201905/t20190514_8103437.shtml',
- 'title': '书写美美与共的文明互鉴新画卷'}
-2019-05-14 13:55:14 [myspider.spiders.sun] WARNING: {'content': '当下，无论是中国还是世界，都处在巨变的十字路口。21世纪第二个10年不平静，但世界仍然有继续繁荣发展的希望，最重要的一环就是亚洲的发展。',
- 'date_time': '2019-05-14 09:55',
- 'href': 'http://news.sun0769.com/national/zh/201905/t20190514_8103441.shtml',
- 'title': '新一轮改革开放将给亚洲与全世界带来红利'}
-2019-05-14 13:55:14 [myspider.spiders.sun] WARNING: {'content': '中国经济发展韧性好，调整适应能力强',
- 'date_time': '2019-05-14 09:55',
- 'href': 'http://news.sun0769.com/national/zh/201905/t20190514_8103442.shtml',
- 'title': '中国经济：持续释放大国的优势和潜力'}
-2019-05-14 13:55:14 [myspider.spiders.sun] WARNING: {'content': '5月13日上午，由文化和旅游部、国家文物局主办，中国国家博物馆与中国文物交流中心共同承办“大美亚细亚——亚洲文明展”在中国国家博物馆开幕。',
- 'date_time': '2019-05-14 09:55',
- 'href': 'http://news.sun0769.com/national/zh/201905/t20190514_8103449.shtml',
- 'title': '中国首次举办集大成亚洲文明展览 49国451件组文物诠释多元文明之美'}
-2019-05-14 13:55:14 [myspider.spiders.sun] WARNING: {'content': '国家医保局会同财政部日前印发《关于做好2019年城乡居民基本医疗保障工作的通知》，要求全面建立统一的城乡居民医保制度。',
- 'date_time': '2019-05-14 09:55',
- 'href': 'http://news.sun0769.com/national/zh/201905/t20190514_8103451.shtml',
- 'title': '我国将全面建立统一的城乡居民医保制度'}
-2019-05-14 13:55:14 [myspider.spiders.sun] WARNING: {'content': '“虽然退伍了，需要我，我必回！”这是7名山西籍的森林消防退伍老兵在退伍时作出的庄严承诺。',
- 'date_time': '2019-05-14 09:55',
- 'href': 'http://news.sun0769.com/national/zh/201905/t20190514_8103453.shtml',
- 'title': '七名甘肃森林消防退伍老兵主动归队参加火灾救援——“需要我，我必回！”'}
-2019-05-14 13:55:14 [myspider.spiders.sun] WARNING: {'content': '获得第23届“中国青年五四奖章”后，中科院宁波材料所青年研究员王立平马不停蹄地赶往各个临海试验基地和重大示范工程所在地，查看海洋环境适应性数据和工程的应用效果。',
- 'date_time': '2019-05-14 09:55',
- 'href': 'http://news.sun0769.com/national/zh/201905/t20190514_8103457.shtml',
- 'title': '为海洋装备披上“铠甲”的人——记“80后”研究员王立平'}
-2019-05-14 13:55:14 [myspider.spiders.sun] WARNING: {'content': '5月13日上午，中央扫黑除恶督导“回头看”工作汇报会在广州召开。',
- 'date_time': '2019-05-14 08:57',
- 'href': 'http://news.sun0769.com/national/zh/201905/t20190514_8103327.shtml',
- 'title': '中央扫黑除恶督导“回头看”工作汇报会在广州召开 吴玉良马兴瑞出席会议并讲话'}
-2019-05-14 13:55:14 [myspider.spiders.sun] WARNING: {'content': '本届峰会议题丰富，300多名嘉宾、参会代表云集广州，就如何开展创新与协同合作、如何推进媒体融合、助推粤港澳大湾区建设等展开深入沟通交流。目前各项筹备工作已基本准备就绪。',
- 'date_time': '2019-05-14 08:57',
- 'href': 'http://news.sun0769.com/national/zh/201905/t20190514_8103328.shtml',
- 'title': '汇聚媒体力量 助建一流湾区'}
-2019-05-14 13:55:14 [myspider.spiders.sun] WARNING: {'content': '在漫长历史长河中，亚洲众多璀璨绚丽的古老文明交相辉映、相得益彰。',
- 'date_time': '2019-05-14 08:57',
- 'href': 'http://news.sun0769.com/national/zh/201905/t20190514_8103382.shtml',
- 'title': '重磅微视频｜发展之桥'}
-2019-05-14 13:55:14 [myspider.spiders.sun] WARNING: {'content': '白宫经济顾问库德洛12日在被电视记者问到谁将为美国征收的巨额关税买单时，表示“双方都会受到影响”。比如白宫反复说增收关税对美国经济和国民福利都是好事，强调美国一年能征收1000亿美元关税...',
- 'date_time': '2019-05-13 23:44',
- 'href': 'http://news.sun0769.com/national/zh/201905/t20190513_8103100.shtml',
- 'title': '社评：美方不断嚣张喊话，实为自我打气'}
-2019-05-14 13:55:14 [myspider.spiders.sun] WARNING: {'content': '有一本世界名著，美国人应该拿来读一读。傲慢看世界，偏见看中国，似乎是少数美国政客的专利。我们也要感谢美国，再一次让中国人隔空看清了太平洋对岸的风景，再一次增强了中华民族的凝聚力和中...',
- 'date_time': '2019-05-13 23:05',
- 'href': 'http://news.sun0769.com/national/zh/201905/t20190513_8103092.shtml',
- 'title': '美国“旧船票”登不上各国“新客船”'}
-2019-05-14 13:55:14 [myspider.spiders.sun] WARNING: {'content': '亚洲文明对话大会将于5月15日在北京开幕。我们期待，借助亚洲文明对话大会这个平台，与会各方聚同化异、开放包容，推动文明交流互鉴成为增进各国人民友谊的桥梁、推动人类社会进步的动力、维护世...',
- 'date_time': '2019-05-13 23:00',
- 'href': 'http://news.sun0769.com/national/zh/201905/t20190513_8103091.shtml',
- 'title': '共绘聚同化异的人类文明画卷'}
-2019-05-14 13:55:14 [myspider.spiders.sun] WARNING: {'content': '中共中央政治局5月13日召开会议，决定从今年6月开始，在全党自上而下分两批开展“不忘初心、牢记使命”主题教育。长三角一体化发展具有极大的区域带动和示范作用，要紧扣“一体化”和“高质量”...',
- 'date_time': '2019-05-13 22:40',
- 'href': 'http://news.sun0769.com/national/zh/201905/t20190513_8103089.shtml',
- 'title': '中共中央政治局召开会议 研究部署在全党开展“不忘初心、牢记使命”主题教育工作 审议《长江三角洲区域一体化发展规划纲要》 '
-          '中共中央总书记习近平主持会议'}
-2019-05-14 13:55:14 [myspider.spiders.sun] WARNING: {'content': '我们的亚洲，如此的多姿多彩，和而不同，每一种文明都延续着一个国家和民族的精神血脉，既需要薪火相传、代代守护，更需要与时俱进、勇于创新。回望历史，亚洲价值、东方智慧已然穿越了时光，启...',
- 'date_time': '2019-05-13 22:40',
- 'href': 'http://news.sun0769.com/national/zh/201905/t20190513_8103090.shtml',
- 'title': '《亚洲 文明之光》 第二集 传承创新'}
-2019-05-14 13:55:14 [myspider.spiders.sun] WARNING: {'content': '5月12日，新闻联播头条播出《【壮丽70年·奋斗新时代】“两弹城”：穿越半个世纪的两弹精神》节目。斑驳的红砖墙，阴冷狭长的山洞，半个多世纪过去了，这里的一切却还在诉说着那个“干惊天动地事...',
- 'date_time': '2019-05-13 22:38',
- 'href': 'http://news.sun0769.com/national/zh/201905/t20190513_8103088.shtml',
- 'title': '记者眼中的“两弹精神”：你愿意为祖国付出什么？'}
-2019-05-14 13:55:14 [myspider.pipelines] WARNING: -------------------- this is MyspiderPipelineSun --------------------
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '朱老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '张老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '韩老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': ' 邓老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': ' 梁老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '吴老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '吴老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '赵老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '闻老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '李老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '许老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '赵老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': ' 刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '杜老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '苏老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '吴老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '覃老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '张老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '崔老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '汤老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '赵老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '李老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '钟老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '梁老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '张老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '赵老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '杜老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '饶老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '石老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '姜老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '栾老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '谈老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '袁老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '唐老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '苗老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '徐老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '杨老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '谭老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '李老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '廖老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '詹老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '张老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '于老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '陈老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '娄老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '惠老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '马老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '康老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '张老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '杨老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '石老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '许老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '郭老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '郝老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '安老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '胡老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '朱老师\t', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '胡老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '李老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '张老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '李老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '彭老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '叶老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '杨老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '白老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '蔡老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '陈老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '陈老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '陈老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '冯老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '谷老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '江老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '柳老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '卢老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '陆老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '夏老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '张老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '周老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '朱老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '陈老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '李老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '廖老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '潘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '宋老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '徐老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '徐老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '袁老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '钟老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '辛老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '沈老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '余老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '龙老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '侯老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '潘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '裴老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '孙老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '吴老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '殷老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '高老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '吴老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '张老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '崔老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '梁老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '李老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '张老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '朱老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '李老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '李老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '孙老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '赵老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '马老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '汪老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '康老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '周老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '汪老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '赵老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '韩老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '杨老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '汤老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '李老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '吴老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '张老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '张老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '孙老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '李老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '汤老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '周老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '陈老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '邢老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '江老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '谢老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': ' 惠老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '尹老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '孔老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '赵老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '张老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '杜老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '赵老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '庄老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '郭老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '毛老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '丁老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '陈老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '胡老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '李老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '杨老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '张老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '周老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '彭老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '齐老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '原老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '吕老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '秦老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '陈老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '江老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '谢老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '朱老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '张老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '盛老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '范老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '沈老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '何老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '李老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '梅老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '姚老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '陈老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '许老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '张老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '李老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '肖老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '唐老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '肖老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '李老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': ' 许老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '石老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '恩老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '赵老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '郝老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '金老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '庄老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '查老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '黄老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '常老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '曲老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '张老师\t', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '李老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '李老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '陈老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '贺老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '宋老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '雷老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '郭老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '高老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '谭老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '廖老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '周老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '杨老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '缪老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '许老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '金老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '邓老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '龚老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '李老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '方老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '曾老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '梁老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '闫老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '杨老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '邓老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '龚老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '薛老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '张老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '丛老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '李老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '彭老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '杨老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '杨老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '袁老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '周老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '张老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '黄老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '伍老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '江老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '段老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '刘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '彭老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '李老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '苏老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '吴老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '沈老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '李老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '周老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '赵老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '潘老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '胡老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '王老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '肖老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.spiders.itcast] WARNING: {'name': '信老师', 'title': '高级讲师'}
+2019-05-14 15:03:13 [myspider.pipelines] WARNING: ---------- This is MyspiderPipeline itcast ----------
