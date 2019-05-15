@@ -114,5 +114,5 @@ class CheckUserAgentMiddleware(object):
 
     def process_response(self, request, response, spider):
         # print(dir(response.request))
-        print(request.headers["User-Agent"])
+        # print(request.headers["User-Agent"])
         return response

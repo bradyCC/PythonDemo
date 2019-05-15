@@ -2,10 +2,11 @@
 import scrapy
 from scrapy.linkextractors import LinkExtractor
 from scrapy.spiders import CrawlSpider, Rule
+from circ.items import CircItem
 import re
-import logging
-
-logger = logging.getLogger(__name__)
+# import logging
+#
+# logger = logging.getLogger(__name__)
 
 class CfSpider(CrawlSpider):
     name = 'cf'
@@ -27,10 +28,11 @@ class CfSpider(CrawlSpider):
 
     # parse函数有特殊功能，不能定义
     def parse_item(self, response):
-        item = {}
+        item = CircItem()
         item["title"] = re.findall("<!--TitleStart-->(.*?)<!--TitleEnd-->", response.body.decode())[0]
         item["public_date"] = re.findall("发布时间：(20\d{2}-\d{2}-\d{2})", response.body.decode())[0]
-        print(item)
+        # logger.warning()
+        yield item
         # item['domain_id'] = response.xpath('//input[@id="sid"]/@value').get()
         # item['name'] = response.xpath('//div[@id="name"]').get()
         # item['description'] = response.xpath('//div[@id="description"]').get()
