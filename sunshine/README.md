@@ -42,3 +42,5 @@ start_urls = ['http://www.itcast.cn/channel/teacher.shtml']         # 最开始�
 
 > 命令： scrapy shell http://www.baidu.com
 
+## 创建CrawlSpider 爬虫
+> 命令： scrapy genspider -t crawl 爬虫名 爬取地址
