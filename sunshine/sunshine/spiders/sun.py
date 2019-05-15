@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import scrapy
 import logging
-from ..items import SunshineItem
+from sunshine.items import SunshineItem
 
 logger = logging.getLogger(__name__)
 

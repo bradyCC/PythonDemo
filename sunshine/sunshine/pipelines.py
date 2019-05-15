@@ -12,6 +12,5 @@ logger = logging.getLogger(__name__)
 class SunshinePipeline(object):
     def process_item(self, item, spider):
         if spider.name == 'sun':
-            # collection.insert(item)
             logger.warning('-'*20 + ' this is MyspiderPipelineSun ' + '-'*20)
         return item
