@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a4e9700-8243-4fcf-8e65-c9d9ba611dc4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8a4e9700-8243-4fcf-8e65-c9d9ba611dc4" name="Default Changelist" comment="Python Demo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sunshine/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/sunshine/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circ/circ/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/circ/circ/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circ/circ/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/circ/circ/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circ/circ/spiders/cf.py" beforeDir="false" afterPath="$PROJECT_DIR$/circ/circ/spiders/cf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circ/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/circ/log.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,14 +53,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/circ/circ/spiders/cf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+            <state relative-caret-position="-367">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/circ/circ/middlewares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="115" column="38" lean-forward="true" selection-start-line="115" selection-start-column="7" selection-end-line="115" selection-end-column="38" />
+              <folding>
+                <element signature="e#169#195#0" expanded="true" />
+                <element signature="e#251#1913#0" />
+                <element signature="e#1960#3603#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/circ/circ/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1214">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -76,6 +100,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>header</find>
+      <find>CheckUserAgentMiddleware</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -130,7 +155,9 @@
         <option value="$PROJECT_DIR$/myspider/myspider/settings.py" />
         <option value="$PROJECT_DIR$/myspider/myspider/pipelines.py" />
         <option value="$PROJECT_DIR$/sunshine/README.md" />
+        <option value="$PROJECT_DIR$/circ/circ/settings.py" />
         <option value="$PROJECT_DIR$/circ/circ/spiders/cf.py" />
+        <option value="$PROJECT_DIR$/circ/circ/middlewares.py" />
       </list>
     </option>
   </component>
@@ -165,7 +192,13 @@
             <path>
               <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="sunshine" type="462c0819:PsiDirectoryNode" />
+              <item name="circ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="circ" type="462c0819:PsiDirectoryNode" />
+              <item name="circ" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -307,7 +340,7 @@
       <workItem from="1557736546371" duration="4835000" />
       <workItem from="1557746279590" duration="374000" />
       <workItem from="1557882062756" duration="96000" />
-      <workItem from="1557882170848" duration="881000" />
+      <workItem from="1557882170848" duration="7932000" />
     </task>
     <task id="LOCAL-00001" summary="Python Demo">
       <created>1548150755547</created>
@@ -477,11 +510,25 @@
       <option name="project" value="LOCAL" />
       <updated>1557882207130</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Python Demo">
+      <created>1557883171436</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1557883171436</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Python Demo">
+      <created>1557886840724</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1557886840724</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89695000" />
+    <option name="totallyTimeSpent" value="96746000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -496,7 +543,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.18976545" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.14392324" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info id="Favorites" order="2" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -510,7 +557,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4946695" weight="0.3264642" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.49973306" side_tool="true" weight="0.2982456" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.50026697" visible="true" weight="0.29501083" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.50026697" visible="true" weight="0.5140998" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49093816" weight="0.3253796" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -523,6 +570,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -569,19 +619,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Python Demo" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PythonBase/OOP/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/modules/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/OOP/test.py" />
-    <entry file="file://D:/Python37/Lib/site-packages/IPython/core/interactiveshell.py" />
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1410413755/builtins.py" />
     <entry file="file://$PROJECT_DIR$/PythonBase/enum/index.py" />
     <entry file="file://$PROJECT_DIR$/PythonBase/exception/index.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -772,22 +809,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/circ/circ/items.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sunshine/sunshine/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-476">
+          <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sunshine/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="517">
-            <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <first_editor relative-caret-position="310">
+            <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/circ/log.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="98" column="96" lean-forward="true" selection-start-line="98" selection-start-column="96" selection-end-line="98" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/circ/circ/spiders/cf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        <state relative-caret-position="-367">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circ/circ/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1214">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circ/circ/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="115" column="38" lean-forward="true" selection-start-line="115" selection-start-column="7" selection-end-line="115" selection-end-column="38" />
+          <folding>
+            <element signature="e#169#195#0" expanded="true" />
+            <element signature="e#251#1913#0" />
+            <element signature="e#1960#3603#0" />
           </folding>
         </state>
       </provider>
