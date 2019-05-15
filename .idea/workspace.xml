@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a4e9700-8243-4fcf-8e65-c9d9ba611dc4" name="Default Changelist" comment="Python Demo">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/circ/circ/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/circ/circ/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/circ/circ/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/circ/circ/settings.py" afterDir="false" />
+    <list default="true" id="8a4e9700-8243-4fcf-8e65-c9d9ba611dc4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/circ/circ/spiders/cf.py" beforeDir="false" afterPath="$PROJECT_DIR$/circ/circ/spiders/cf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/circ/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/circ/log.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,11 +49,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/circ/circ/spiders/cf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-367">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="340">
+              <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
@@ -65,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/circ/circ/middlewares.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="115" column="38" lean-forward="true" selection-start-line="115" selection-start-column="7" selection-end-line="115" selection-end-column="38" />
+            <state relative-caret-position="296">
+              <caret line="117" column="23" lean-forward="true" selection-start-line="117" selection-start-column="23" selection-end-line="117" selection-end-column="23" />
               <folding>
                 <element signature="e#169#195#0" expanded="true" />
                 <element signature="e#251#1913#0" />
@@ -156,8 +152,8 @@
         <option value="$PROJECT_DIR$/myspider/myspider/pipelines.py" />
         <option value="$PROJECT_DIR$/sunshine/README.md" />
         <option value="$PROJECT_DIR$/circ/circ/settings.py" />
-        <option value="$PROJECT_DIR$/circ/circ/spiders/cf.py" />
         <option value="$PROJECT_DIR$/circ/circ/middlewares.py" />
+        <option value="$PROJECT_DIR$/circ/circ/spiders/cf.py" />
       </list>
     </option>
   </component>
@@ -188,17 +184,6 @@
             <path>
               <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="circ" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="circ" type="462c0819:PsiDirectoryNode" />
-              <item name="circ" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -340,7 +325,7 @@
       <workItem from="1557736546371" duration="4835000" />
       <workItem from="1557746279590" duration="374000" />
       <workItem from="1557882062756" duration="96000" />
-      <workItem from="1557882170848" duration="7932000" />
+      <workItem from="1557882170848" duration="8473000" />
     </task>
     <task id="LOCAL-00001" summary="Python Demo">
       <created>1548150755547</created>
@@ -524,11 +509,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557886840724</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Python Demo">
+      <created>1557890138935</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1557890138935</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96746000" />
+    <option name="totallyTimeSpent" value="97287000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -543,7 +535,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.14392324" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.14392324" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info id="Favorites" order="2" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -557,7 +549,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4946695" weight="0.3264642" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.49973306" side_tool="true" weight="0.2982456" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.50026697" visible="true" weight="0.5140998" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.50026697" visible="true" weight="0.4164859" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49093816" weight="0.3253796" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -836,16 +828,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/circ/circ/spiders/cf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-367">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/circ/circ/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1214">
@@ -855,12 +837,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/circ/circ/middlewares.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="115" column="38" lean-forward="true" selection-start-line="115" selection-start-column="7" selection-end-line="115" selection-end-column="38" />
+        <state relative-caret-position="296">
+          <caret line="117" column="23" lean-forward="true" selection-start-line="117" selection-start-column="23" selection-end-line="117" selection-end-column="23" />
           <folding>
             <element signature="e#169#195#0" expanded="true" />
             <element signature="e#251#1913#0" />
             <element signature="e#1960#3603#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circ/circ/spiders/cf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
           </folding>
         </state>
       </provider>

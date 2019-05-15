@@ -22,7 +22,7 @@ class CfSpider(CrawlSpider):
         # callback 提取出来的url地址的response会交给callback处理
         # follow 当前url地址的响应是否重新经过rules来提取url地址
         Rule(LinkExtractor(allow=r'/web/site0/tab5240/info\d+\.htm'), callback='parse_item'),
-        # Rule(LinkExtractor(allow=r'/web/site0/tab5240/module14430/page\d+\.htm'), follow=True),
+        Rule(LinkExtractor(allow=r'/web/site0/tab5240/module14430/page\d+\.htm'), follow=True),
     )
 
     # parse函数有特殊功能，不能定义
