@@ -14,9 +14,11 @@ BOT_NAME = 'circ'
 SPIDER_MODULES = ['circ.spiders']
 NEWSPIDER_MODULE = 'circ.spiders'
 
+LOG_LEVEL = 'WARNING'
+LOG_FILE = './log.log'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'circ (+http://www.yourdomain.com)'
+USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -64,9 +66,9 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'circ.pipelines.CircPipeline': 300,
-#}
+ITEM_PIPELINES = {
+   'circ.pipelines.CircPipeline': 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
