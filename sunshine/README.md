@@ -62,3 +62,11 @@ USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
     - 一个Rule对象接手很多参数， Rule(LinkExtractor(allow=r'/Item'), callback='parse_item', follow=True),
     - 不指定callback函数的请求下，如果follow为True，满足该rule的url还会继续被请求
     - 如果多个Rule都满足某一个url，会从rules中选择第一个满足的进行操作
+
+
+## 下载中间件的使用
+
+- 定义类
+- process_request 处理请求，不需要return
+- process_response 处理响应，需要return response
+- settings中开启中间件
