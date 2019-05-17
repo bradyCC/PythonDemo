@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a4e9700-8243-4fcf-8e65-c9d9ba611dc4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +46,7 @@
     <favorites_list name="Python" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -113,6 +111,9 @@
         <option value="$PROJECT_DIR$/myspider/myspider/spiders/itcast.py" />
         <option value="$PROJECT_DIR$/myspider/myspider/settings.py" />
         <option value="$PROJECT_DIR$/myspider/myspider/pipelines.py" />
+        <option value="$PROJECT_DIR$/sunshine/sunshine/pipelines.py" />
+        <option value="$PROJECT_DIR$/sunshine/sunshine/spiders/sun.py" />
+        <option value="$PROJECT_DIR$/sunshine/log.log" />
       </list>
     </option>
   </component>
@@ -165,6 +166,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sunshine" />
       <recent name="D:\MyWork\PythonDemo\网络爬虫\Requests库" />
       <recent name="D:\MyWork\PythonDemo\网络爬虫" />
       <recent name="D:\MyWork\PythonDemo\PythonBase" />
@@ -281,6 +283,7 @@
       <workItem from="1557728240642" duration="7768000" />
       <workItem from="1557736546371" duration="4835000" />
       <workItem from="1557746279590" duration="374000" />
+      <workItem from="1557843367709" duration="1027000" />
     </task>
     <task id="LOCAL-00001" summary="Python Demo">
       <created>1548150755547</created>
@@ -443,11 +446,32 @@
       <option name="project" value="LOCAL" />
       <updated>1557735802141</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Python Demo">
+      <created>1557843397780</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1557843397780</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Python Demo">
+      <created>1557843501938</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1557843501938</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Python Demo">
+      <created>1557843822552</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1557843822552</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88714000" />
+    <option name="totallyTimeSpent" value="89741000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -461,22 +485,22 @@
   <component name="ToolWindowManager">
     <frame x="1" y="23" width="1919" height="987" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.1220032" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.12306873" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info id="Favorites" order="2" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32849163" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49520257" weight="0.3275488" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.324295" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4946695" weight="0.3264642" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4946695" weight="0.326257" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5090618" side_tool="true" weight="0.3253796" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49200428" visible="true" weight="0.4256983" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49093816" weight="0.3253796" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49200428" weight="0.34189945" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49093816" weight="0.32513967" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -534,49 +558,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Python Demo" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PythonBase/advancedfeatures/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="68" column="34" lean-forward="true" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/index.py" />
-    <entry file="file://$PROJECT_DIR$/PythonBase/functionalprogramming/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/OOP/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/modules/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/OOP/test.py" />
-    <entry file="file://D:/Python37/Lib/site-packages/IPython/core/interactiveshell.py" />
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1410413755/builtins.py" />
-    <entry file="file://$PROJECT_DIR$/PythonBase/enum/index.py" />
-    <entry file="file://$PROJECT_DIR$/PythonBase/exception/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/OOP/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PythonBase/test5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -635,9 +616,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/网络爬虫/Requests库/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/网络爬虫/淘宝商品信息定向爬虫/index.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/网络爬虫/Requests库/获取网络图片并保存/index.py">
@@ -707,25 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/网络爬虫/scrapyDemo/scrapyDemo/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1281" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/网络爬虫/scrapyDemo/scrapyDemo/items.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/网络爬虫/scrapyDemo/scrapyDemo/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/网络爬虫/scrapyDemo/scrapyDemo/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1060" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/网络爬虫/scrapyDemo/scrapyDemo/spiders/demo.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/网络爬虫/scrapyDemo/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -741,10 +700,10 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/mySpiderl/mySpiderl/spiders/itcast.py" />
-    <entry file="file://$PROJECT_DIR$/myspider/myspider/settings.py">
+    <entry file="file://$PROJECT_DIR$/myspider/myspider/spiders/itcast.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        <state relative-caret-position="306">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -755,12 +714,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myspider/myspider/spiders/itcast.py">
+    <entry file="file://$PROJECT_DIR$/myspider/myspider/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        <state relative-caret-position="433">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspider/myspider/items.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sunshine/sunshine/spiders/sun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sunshine/sunshine/items.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sunshine/log.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sunshine/sunshine/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sunshine/sunshine/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网络爬虫/获取百度VIP音乐并保存/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网络爬虫/获取网易新闻数据/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网络爬虫/获取网易新闻数据/网易新闻数据.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="76" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网络爬虫/获取猫眼电影Top100数据/result.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网络爬虫/scrapyDemo/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网络爬虫/scrapyDemo/scrapyDemo/spiders/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网络爬虫/scrapyDemo/scrapyDemo/items.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网络爬虫/scrapyDemo/scrapyDemo/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网络爬虫/scrapyDemo/scrapyDemo/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网络爬虫/scrapyDemo/scrapyDemo/settings.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网络爬虫/淘宝商品信息定向爬虫/index.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
