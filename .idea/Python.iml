@@ -15,6 +15,12 @@
       <sourceFolder url="file://$MODULE_DIR$/circ" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/login" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/book" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/amazon" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baidu" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jingdong" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PythonBase" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/网络爬虫" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PythonText" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (Python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
