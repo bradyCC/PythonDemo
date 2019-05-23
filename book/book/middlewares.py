@@ -6,9 +6,9 @@
 # https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
 from scrapy import signals
-import random
 
-class CircSpiderMiddleware(object):
+
+class BookSpiderMiddleware(object):
     # Not all methods need to be defined. If a method is not defined,
     # scrapy acts as if the spider middleware does not modify the
     # passed objects.
@@ -56,7 +56,7 @@ class CircSpiderMiddleware(object):
         spider.logger.info('Spider opened: %s' % spider.name)
 
 
-class CircDownloaderMiddleware(object):
+class BookDownloaderMiddleware(object):
     # Not all methods need to be defined. If a method is not defined,
     # scrapy acts as if the downloader middleware does not modify the
     # passed objects.
@@ -101,18 +101,3 @@ class CircDownloaderMiddleware(object):
 
     def spider_opened(self, spider):
         spider.logger.info('Spider opened: %s' % spider.name)
-
-
-class RandomUserAgentMiddleware(object):
-
-    def process_request(self, request, spider):
-        USER_AGENT = random.choice(spider.settings.get("USER_AGENT_LIST"))
-        request.headers["User-Agent"] = USER_AGENT
-
-
-class CheckUserAgentMiddleware(object):
-
-    def process_response(self, request, response, spider):
-        # print(dir(response.request))
-        # print(request.headers["User-Agent"])
-        return response

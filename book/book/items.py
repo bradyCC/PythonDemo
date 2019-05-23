@@ -8,10 +8,7 @@
 import scrapy
 
 
-class CircItem(scrapy.Item):
+class BookItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    # pass
-    title = scrapy.Field()
-    public_date = scrapy.Field()
-
+    pass
