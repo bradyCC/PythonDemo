@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a4e9700-8243-4fcf-8e65-c9d9ba611dc4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/circ/circ/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/circ/circ/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/circ/circ/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/circ/circ/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/circ/circ/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/circ/circ/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/circ/circ/spiders/cf.py" beforeDir="false" afterPath="$PROJECT_DIR$/circ/circ/spiders/cf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/circ/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/circ/log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/book/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/book/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/book/spiders/jd.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/book/spiders/jd.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +49,26 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book/book/spiders/jd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/book/book/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -127,6 +141,8 @@
         <option value="$PROJECT_DIR$/circ/circ/middlewares.py" />
         <option value="$PROJECT_DIR$/circ/circ/pipelines.py" />
         <option value="$PROJECT_DIR$/circ/circ/spiders/cf.py" />
+        <option value="$PROJECT_DIR$/book/book/spiders/jd.py" />
+        <option value="$PROJECT_DIR$/book/book/settings.py" />
       </list>
     </option>
   </component>
@@ -157,6 +173,24 @@
             <path>
               <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -298,7 +332,7 @@
       <workItem from="1557736546371" duration="4835000" />
       <workItem from="1557746279590" duration="374000" />
       <workItem from="1557882062756" duration="96000" />
-      <workItem from="1557882170848" duration="12042000" />
+      <workItem from="1557882170848" duration="13830000" />
     </task>
     <task id="LOCAL-00001" summary="Python Demo">
       <created>1548150755547</created>
@@ -510,11 +544,32 @@
       <option name="project" value="LOCAL" />
       <updated>1557891840411</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Python Demo">
+      <created>1557900521872</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1557900521872</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Python Demo">
+      <created>1557900533915</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1557900533915</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Python Demo">
+      <created>1557900750269</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1557900750269</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100856000" />
+    <option name="totallyTimeSpent" value="102644000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -527,8 +582,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.14392324" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.14392324" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info id="Favorites" order="2" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -542,7 +598,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4946695" weight="0.3264642" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.49973306" side_tool="true" weight="0.2982456" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.50026697" visible="true" weight="0.4164859" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.50026697" visible="true" weight="0.4164859" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49093816" weight="0.3253796" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -604,20 +660,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Python Demo" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PythonBase/test5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PythonBase/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -857,6 +899,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/book/spiders/jd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/book/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
