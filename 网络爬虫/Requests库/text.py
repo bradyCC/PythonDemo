@@ -22,7 +22,7 @@ def getHTMLText(url):
         chineseTitle = re.findall('color: #039;"(.*?)</a>', r.text, re.S)
         for item in chineseTitle:
             print(item)
-        # return r.text
+        return r.text
     except IOError:
         print('爬取异常')
 
