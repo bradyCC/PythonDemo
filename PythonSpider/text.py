@@ -8,6 +8,7 @@
 import requests
 import re
 
+
 def getHTMLText(url):
     headers = {
         'User-Agent': 'Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, likeGecko) Chrome/74.0.3729.131 Safari/537.36'
