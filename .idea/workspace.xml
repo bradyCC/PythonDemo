@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a4e9700-8243-4fcf-8e65-c9d9ba611dc4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+    <list default="true" id="8a4e9700-8243-4fcf-8e65-c9d9ba611dc4" name="Default Changelist" comment="Python Demo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonNotes/re.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonNotes/text1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonNotes/text1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,20 +51,7 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PythonNotes/text1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-              <folding>
-                <element signature="e#146#161#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -173,11 +157,6 @@
             <path>
               <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonNotes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
@@ -329,6 +308,9 @@
       <workItem from="1558609997908" duration="608000" />
       <workItem from="1558613743614" duration="102000" />
       <workItem from="1558613889342" duration="338000" />
+      <workItem from="1558781490850" duration="130000" />
+      <workItem from="1558781622745" duration="132000" />
+      <workItem from="1558793566805" duration="49000" />
     </task>
     <task id="LOCAL-00001" summary="Python Demo">
       <created>1548150755547</created>
@@ -589,11 +571,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558609448638</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Python Demo">
+      <created>1558781538765</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1558781538766</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112063000" />
+    <option name="totallyTimeSpent" value="112374000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -607,7 +596,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="987" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.15495208" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.15974441" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info id="Favorites" order="2" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -618,9 +607,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.32402235" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49413645" weight="0.326257" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49201277" visible="true" weight="0.326257" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5074627" side_tool="true" weight="0.37744033" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5079872" side_tool="true" visible="true" weight="0.326257" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" weight="0.36648044" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4904051" weight="0.3810056" />
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.329718" />
@@ -684,13 +673,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Python Demo" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/网络爬虫/Requests库/向百度360搜索引擎提交关键词/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/网络爬虫/Requests库/获取亚马逊商品页面数据/index.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -900,13 +882,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonNotes/re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-37">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonNotes/re.py" />
     <entry file="file://$PROJECT_DIR$/PythonNotes/text2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -920,11 +896,16 @@
     <entry file="file://$PROJECT_DIR$/PythonNotes/text1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
           <folding>
             <element signature="e#146#161#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-578" />
       </provider>
     </entry>
   </component>
