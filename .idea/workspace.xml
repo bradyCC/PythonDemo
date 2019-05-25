@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a4e9700-8243-4fcf-8e65-c9d9ba611dc4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/note/note/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note/note/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note/note/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note/note/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note/note/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note/note/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note/note/spiders/ghoul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note/scrapy.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/note/note/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/note/spiders/ghoul.py" beforeDir="false" afterPath="$PROJECT_DIR$/note/note/spiders/ghoul.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,11 +53,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/note/note/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="454">
-              <caret line="95" column="13" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
+              <caret line="95" column="15" selection-start-line="95" selection-end-line="95" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -78,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/note/note/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            <state relative-caret-position="323">
+              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
               <folding>
                 <element signature="e#194#198#0" expanded="true" />
               </folding>
@@ -93,8 +86,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/note/note/spiders/ghoul.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="27" column="62" lean-forward="true" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+            <state relative-caret-position="386">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
@@ -182,9 +175,9 @@
         <option value="$PROJECT_DIR$/doubanmovie/doubanmovie/settings.py" />
         <option value="$PROJECT_DIR$/doubanmovie/doubanmovie/middlewares.py" />
         <option value="$PROJECT_DIR$/note/note/items.py" />
+        <option value="$PROJECT_DIR$/note/note/settings.py" />
         <option value="$PROJECT_DIR$/note/note/spiders/ghoul.py" />
         <option value="$PROJECT_DIR$/note/note/pipelines.py" />
-        <option value="$PROJECT_DIR$/note/note/settings.py" />
       </list>
     </option>
   </component>
@@ -563,7 +556,7 @@
       <workItem from="1558745754254" duration="605000" />
       <workItem from="1558746497207" duration="357000" />
       <workItem from="1558746856871" duration="23369000" />
-      <workItem from="1558773697888" duration="4560000" />
+      <workItem from="1558773697888" duration="4856000" />
     </task>
     <task id="LOCAL-00001" summary="Python Demo">
       <created>1548150755547</created>
@@ -887,11 +880,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558774175629</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Python Demo">
+      <created>1558778269462</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1558778269462</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139716000" />
+    <option name="totallyTimeSpent" value="140012000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1469,16 +1469,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/note/note/spiders/ghoul.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="27" column="62" lean-forward="true" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/note/note/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1486,20 +1476,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/note/note/pipelines.py">
+    <entry file="file://$PROJECT_DIR$/note/note/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        <state relative-caret-position="454">
+          <caret line="95" column="15" selection-start-line="95" selection-end-line="95" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/note/spiders/ghoul.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
           <folding>
-            <element signature="e#194#198#0" expanded="true" />
+            <element signature="e#24#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/note/note/settings.py">
+    <entry file="file://$PROJECT_DIR$/note/note/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="95" column="13" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
+        <state relative-caret-position="323">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+          <folding>
+            <element signature="e#194#198#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

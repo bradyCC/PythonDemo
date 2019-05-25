@@ -22,8 +22,8 @@ class GhoulSpider(CrawlSpider):
         list = response.xpath('//div[@class="excerpts"]//article')
         for each in list:
             item['bookName'] = response.xpath('//h1[@class="focusbox-title"]/text()').get().split('：')[0]
-            item['bookTitle'] = list.xpath('./a/text()').get().split(' ')[0]
-            item['chapterNum'] = list.xpath('./a/text()').get().split(' ')[1]
-            item['chapterTitle'] = list.xpath('./a/text()').get().split(' ')[2]
-            item['chapterUrl'] = list.xpath('./a/@href').get()
+            item['bookTitle'] = each.xpath('./a/text()').get().split(' ')[0]
+            item['chapterNum'] = each.xpath('./a/text()').get().split(' ')[1]
+            item['chapterTitle'] = each.xpath('./a/text()').get().split(' ')[2]
+            item['chapterUrl'] = each.xpath('./a/@href').get()
             yield item

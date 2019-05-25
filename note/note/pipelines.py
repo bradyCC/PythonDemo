@@ -13,15 +13,18 @@ class NotePipeline(object):
     def __init__(self):
         host = settings['MONGODB_HOST']
         port = settings['MONGODB_PORT']
-        dbname = settings['MONGODB_DBMAME']
+        dbName = settings['MONGODB_DBNAME']
         client = pymongo.MongoClient(host=host, port=port)
+        db = client[dbName]
+        self.post = db[settings['MONGODB_DOCNAME']]
 
 
     def open_spider(self, spider):
         print('Starting!')
 
     def process_item(self, item, spider):
-        print(item)
+        bookInfo = dict(item)
+        self.post.insert(bookInfo)
         return item
 
     def close_spider(self, spider):
