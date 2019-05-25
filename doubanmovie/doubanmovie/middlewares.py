@@ -6,7 +6,7 @@
 # https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
 from scrapy import signals
-
+import random
 
 class DoubanmovieSpiderMiddleware(object):
     # Not all methods need to be defined. If a method is not defined,
@@ -101,3 +101,10 @@ class DoubanmovieDownloaderMiddleware(object):
 
     def spider_opened(self, spider):
         spider.logger.info('Spider opened: %s' % spider.name)
+
+class RandomUserAgentMiddleware(object):
+
+    def process_request(self, request, spider):
+        USER_AGENT = random.choice(spider.settings.get("USER_AGENT_LIST"))
+        request.headers["User-Agent"] = USER_AGENT
+
