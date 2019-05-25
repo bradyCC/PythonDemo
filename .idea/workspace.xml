@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a4e9700-8243-4fcf-8e65-c9d9ba611dc4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/doubanmovie/douban.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doubanmovie/doubanmovie/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doubanmovie/doubanmovie/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doubanmovie/doubanmovie/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doubanmovie/doubanmovie/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doubanmovie/doubanmovie/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doubanmovie/doubanmovie/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doubanmovie/doubanmovie/spiders/douban.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doubanmovie/scrapy.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonSpider/test4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -74,19 +65,28 @@
         <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/items.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/spiders/douban.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/spiders/douban.py">
+        <entry file="file://$PROJECT_DIR$/PythonSpider/test4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="25" column="78" lean-forward="true" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
-              <folding>
-                <element signature="e#24#37#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -419,7 +419,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PythonBase/enum/index.py" />
         <option value="$PROJECT_DIR$/PythonBase/exception/index.py" />
         <option value="$PROJECT_DIR$/Requests库/index.py" />
         <option value="$PROJECT_DIR$/网络爬虫 - 复习/Requests库/index.py" />
@@ -466,10 +465,11 @@
         <option value="$PROJECT_DIR$/douban/douban/pipelines.py" />
         <option value="$PROJECT_DIR$/douban/douban/settings.py" />
         <option value="$PROJECT_DIR$/douban/douban/spiders/doubanTest.py" />
-        <option value="$PROJECT_DIR$/doubanmovie/doubanmovie/pipelines.py" />
         <option value="$PROJECT_DIR$/doubanmovie/doubanmovie/settings.py" />
-        <option value="$PROJECT_DIR$/doubanmovie/doubanmovie/items.py" />
+        <option value="$PROJECT_DIR$/doubanmovie/doubanmovie/pipelines.py" />
         <option value="$PROJECT_DIR$/doubanmovie/doubanmovie/spiders/douban.py" />
+        <option value="$PROJECT_DIR$/doubanmovie/doubanmovie/items.py" />
+        <option value="$PROJECT_DIR$/PythonSpider/test4.py" />
       </list>
     </option>
   </component>
@@ -504,13 +504,7 @@
             <path>
               <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="doubanmovie" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="doubanmovie" type="462c0819:PsiDirectoryNode" />
-              <item name="doubanmovie" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonSpider" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -555,7 +549,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.douban (1)">
+  <component name="RunManager" selected="Python.test4">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -673,6 +667,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test4" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonSpider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonSpider/test4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="text" type="PythonConfigurationType" factoryName="Python">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -718,6 +731,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.test4" />
       <item itemvalue="Python.douban (1)" />
       <item itemvalue="Python.text" />
       <item itemvalue="Python.text3" />
@@ -791,7 +805,7 @@
       <workItem from="1558745435922" duration="6000" />
       <workItem from="1558745754254" duration="605000" />
       <workItem from="1558746497207" duration="357000" />
-      <workItem from="1558746856871" duration="18005000" />
+      <workItem from="1558746856871" duration="22429000" />
     </task>
     <task id="LOCAL-00001" summary="Python Demo">
       <created>1548150755547</created>
@@ -1087,11 +1101,25 @@
       <option name="project" value="LOCAL" />
       <updated>1558751965653</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Python Demo">
+      <created>1558768199544</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1558768199544</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Python Demo">
+      <created>1558769455081</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1558769455082</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129792000" />
+    <option name="totallyTimeSpent" value="134216000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1111,7 +1139,7 @@
       <window_info id="Favorites" order="2" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49253732" weight="0.37744033" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49253732" visible="true" weight="0.37744033" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.48698482" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1120,7 +1148,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49413645" weight="0.3253796" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5074627" side_tool="true" weight="0.37744033" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" visible="true" weight="0.36334056" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" weight="0.36334056" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4904051" weight="0.39045554" />
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1186,19 +1214,10 @@
     <SUITE FILE_PATH="coverage/PythonDemo$doubanText.coverage" NAME="doubanText Coverage Results" MODIFIED="1558752684686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban/douban/spiders" />
     <SUITE FILE_PATH="coverage/PythonDemo$text3.coverage" NAME="text3 Coverage Results" MODIFIED="1558749226111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSpider" />
     <SUITE FILE_PATH="coverage/PythonDemo$douban__1_.coverage" NAME="douban (1) Coverage Results" MODIFIED="1558767305145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doubanmovie/doubanmovie/spiders" />
+    <SUITE FILE_PATH="coverage/PythonDemo$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1558772747697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSpider" />
     <SUITE FILE_PATH="coverage/PythonDemo$douban.coverage" NAME="douban Coverage Results" MODIFIED="1558752903334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doubanText/doubanText/spiders" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PythonSpider/text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="13" column="136" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="136" />
-          <folding>
-            <element signature="e#146#161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PythonSpider/text2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1463,9 +1482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doubanmovie/data.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/middlewares.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1476,24 +1492,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Python37/Lib/sre_parse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="650" selection-start-line="650" selection-end-line="650" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -1790,13 +1792,37 @@
     <entry file="file://$PROJECT_DIR$/doubanmovie/scrapy.cfg">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/doubanmovie/data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/spiders/douban.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="25" column="78" lean-forward="true" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
+        <state relative-caret-position="418">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSpider/test4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
