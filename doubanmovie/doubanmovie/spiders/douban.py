@@ -21,8 +21,10 @@ class DoubanSpider(CrawlSpider):
         item = DoubanmovieItem()
         list = response.xpath('//div[@class="item"]')
         for listItem in list:
-            item['title'] = listItem.xpath('.//div[@class="info"]//div[@class="hd"]/a/span[1]/text()').get()
+            item['title'] = listItem.xpath('.//div[@class="hd"]/a/span[1]/text()').get()
+            item['img'] = listItem.xpath('.//div[@class="pic"]//img/@src').get()
+            item['score'] = listItem.xpath('.//div[@class="bd"]//span[@class="rating_num"]/text()').get()
+            item['quote'] = listItem.xpath('.//span[@class="inq"]/text()').get()
+            item['movieInfo'] = listItem.xpath('.//div[@class="bd"]/p/text()').get()
             yield item
-        #item['domain_id'] = response.xpath('//input[@id="sid"]/@value').get()
-        #item['name'] = response.xpath('//div[@id="name"]').get()
-        #item['description'] = response.xpath('//div[@id="description"]').get()
+

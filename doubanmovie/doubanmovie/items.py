@@ -14,5 +14,5 @@ class DoubanmovieItem(scrapy.Item):
     title = scrapy.Field()
     img = scrapy.Field()
     movieInfo = scrapy.Field()
-    star = scrapy.Field()
+    score = scrapy.Field()
     quote = scrapy.Field()
