@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a4e9700-8243-4fcf-8e65-c9d9ba611dc4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/note/note/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/note/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/note/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/note/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/note/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/note/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/note/spiders/ghoul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/note/scrapy.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doubanmovie/doubanmovie/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/doubanmovie/doubanmovie/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doubanmovie/doubanmovie/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/doubanmovie/doubanmovie/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doubanmovie/doubanmovie/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/doubanmovie/doubanmovie/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,43 +60,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/pipelines.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/note/note/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            <state relative-caret-position="454">
+              <caret line="95" column="13" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/circ/circ/settings.py">
+        <entry file="file://$PROJECT_DIR$/note/note/items.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="95" selection-start-line="95" selection-end-line="112" selection-end-column="1" />
+            <state relative-caret-position="272">
+              <caret line="16" column="16" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/circ/circ/middlewares.py">
+        <entry file="file://$PROJECT_DIR$/note/note/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="105" selection-start-line="105" selection-end-line="111" />
+            <state relative-caret-position="255">
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
               <folding>
-                <element signature="e#169#195#0" expanded="true" />
+                <element signature="e#194#198#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/middlewares.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/note/note/spiders/ghoul.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="110" selection-start-line="110" selection-end-line="110" />
+            <state relative-caret-position="420">
+              <caret line="27" column="62" lean-forward="true" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
               <folding>
-                <element signature="e#169#195#0" expanded="true" />
+                <element signature="e#24#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,10 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Requests库/index.py" />
-        <option value="$PROJECT_DIR$/网络爬虫 - 复习/Requests库/index.py" />
-        <option value="$PROJECT_DIR$/index.py" />
-        <option value="$PROJECT_DIR$/网络爬虫/Requests库/index.py" />
         <option value="$PROJECT_DIR$/网络爬虫/获取亚马逊商品页面数据/index.py" />
         <option value="$PROJECT_DIR$/网络爬虫/获取京东商品页面数据/index.py" />
         <option value="$PROJECT_DIR$/网络爬虫/Requests库/向百度360搜索引擎提交关键词/index.py" />
@@ -179,6 +181,10 @@
         <option value="$PROJECT_DIR$/doubanmovie/doubanmovie/spiders/douban.py" />
         <option value="$PROJECT_DIR$/doubanmovie/doubanmovie/settings.py" />
         <option value="$PROJECT_DIR$/doubanmovie/doubanmovie/middlewares.py" />
+        <option value="$PROJECT_DIR$/note/note/items.py" />
+        <option value="$PROJECT_DIR$/note/note/spiders/ghoul.py" />
+        <option value="$PROJECT_DIR$/note/note/pipelines.py" />
+        <option value="$PROJECT_DIR$/note/note/settings.py" />
       </list>
     </option>
   </component>
@@ -212,31 +218,31 @@
             <path>
               <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="circ" type="462c0819:PsiDirectoryNode" />
+              <item name="doubanmovie" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="circ" type="462c0819:PsiDirectoryNode" />
-              <item name="circ" type="462c0819:PsiDirectoryNode" />
+              <item name="doubanmovie" type="462c0819:PsiDirectoryNode" />
+              <item name="doubanmovie" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="circ" type="462c0819:PsiDirectoryNode" />
-              <item name="circ" type="462c0819:PsiDirectoryNode" />
+              <item name="note" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="note" type="462c0819:PsiDirectoryNode" />
+              <item name="note" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="note" type="462c0819:PsiDirectoryNode" />
+              <item name="note" type="462c0819:PsiDirectoryNode" />
               <item name="spiders" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="doubanmovie" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="doubanmovie" type="462c0819:PsiDirectoryNode" />
-              <item name="doubanmovie" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -557,7 +563,7 @@
       <workItem from="1558745754254" duration="605000" />
       <workItem from="1558746497207" duration="357000" />
       <workItem from="1558746856871" duration="23369000" />
-      <workItem from="1558773697888" duration="427000" />
+      <workItem from="1558773697888" duration="4560000" />
     </task>
     <task id="LOCAL-00001" summary="Python Demo">
       <created>1548150755547</created>
@@ -874,11 +880,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558772794021</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Python Demo">
+      <created>1558774175629</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1558774175629</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135583000" />
+    <option name="totallyTimeSpent" value="139716000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -893,7 +906,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.15671642" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.15671642" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info id="Favorites" order="2" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -907,7 +920,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49413645" weight="0.3253796" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5074627" side_tool="true" weight="0.37744033" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" visible="true" weight="0.36225596" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" visible="true" weight="0.4164859" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4904051" weight="0.39045554" />
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -977,27 +990,6 @@
     <SUITE FILE_PATH="coverage/PythonDemo$douban.coverage" NAME="douban Coverage Results" MODIFIED="1558752903334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doubanText/doubanText/spiders" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PythonSpider/text3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSpider/text3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="78" column="427" selection-start-line="78" selection-start-column="419" selection-end-line="78" selection-end-column="427" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/amazon/settings.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban/log.log" />
     <entry file="file://$PROJECT_DIR$/doubanText/log.log" />
     <entry file="file://$PROJECT_DIR$/doubanText/doubanText/items.py" />
     <entry file="file://$PROJECT_DIR$/doubanText/doubanText/pipelines.py" />
@@ -1399,31 +1391,10 @@
     <entry file="file://$PROJECT_DIR$/jingdong/jingdong/settings.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circ/circ/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="95" selection-start-line="95" selection-end-line="112" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/circ/circ/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="109" column="1" selection-start-line="109" selection-start-column="1" selection-end-line="109" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1457,23 +1428,78 @@
     <entry file="file://$PROJECT_DIR$/circ/circ/items.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/circ/circ/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="95" selection-start-line="95" selection-end-line="112" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/circ/circ/middlewares.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="105" selection-start-line="105" selection-end-line="111" />
+        <state relative-caret-position="351">
+          <caret line="112" selection-start-line="112" selection-end-line="117" selection-end-column="23" />
           <folding>
             <element signature="e#169#195#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="52" lean-forward="true" selection-start-line="68" selection-start-column="52" selection-end-line="68" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/middlewares.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        <state relative-caret-position="198">
+          <caret line="96" column="59" lean-forward="true" selection-start-line="96" selection-start-column="59" selection-end-line="96" selection-end-column="59" />
           <folding>
             <element signature="e#169#195#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/note/spiders/ghoul.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="27" column="62" lean-forward="true" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/note/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/note/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="e#194#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/note/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="95" column="13" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
         </state>
       </provider>
     </entry>
