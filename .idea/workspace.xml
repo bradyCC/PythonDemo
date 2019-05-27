@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a4e9700-8243-4fcf-8e65-c9d9ba611dc4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/note/note/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/note/note/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/note/note/spiders/ghoul.py" beforeDir="false" afterPath="$PROJECT_DIR$/note/note/spiders/ghoul.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/note/note/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+            <state relative-caret-position="340">
+              <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
               <folding>
                 <element signature="e#194#198#0" expanded="true" />
               </folding>
@@ -556,7 +554,7 @@
       <workItem from="1558745754254" duration="605000" />
       <workItem from="1558746497207" duration="357000" />
       <workItem from="1558746856871" duration="23369000" />
-      <workItem from="1558773697888" duration="4856000" />
+      <workItem from="1558773697888" duration="4898000" />
     </task>
     <task id="LOCAL-00001" summary="Python Demo">
       <created>1548150755547</created>
@@ -887,11 +885,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558778269462</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Python Demo">
+      <created>1558778593306</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1558778593306</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140012000" />
+    <option name="totallyTimeSpent" value="140054000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -904,7 +909,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.15671642" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
@@ -1495,8 +1499,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/note/note/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        <state relative-caret-position="340">
+          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
           <folding>
             <element signature="e#194#198#0" expanded="true" />
           </folding>
