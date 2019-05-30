@@ -6,3 +6,7 @@
 # @Software: PyCharm
 
 import math
+
+# math.pi             # 圆周率
+# math.ceil()         # 向上取整
+# math.floor()        # 向下取整
