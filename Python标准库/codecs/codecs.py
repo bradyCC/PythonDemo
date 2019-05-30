@@ -5,7 +5,7 @@
 # @File    : codecs.py
 # @Software: PyCharm
 
-# 用于文件操作
+# 文件操作
 import codecs
 
 f = codecs.open('t.txt', 'r', 'utf-8')      # 读取文件中的内容，返回list

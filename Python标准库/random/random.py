@@ -5,6 +5,7 @@
 # @File    : random.py
 # @Software: PyCharm
 
+# 随机数
 import random
 
 # print(random.random())      # 生成[0.0,1.0]之前的随机小数，如不设置seed，默认使用当前时间作为随机数种子

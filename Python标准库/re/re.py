@@ -5,7 +5,7 @@
 # @File    : index.py
 # @Software: PyCharm
 
-# 用于正则匹配
+# 正则匹配
 import re
 
 # r = re.search(r'[1-9]\d{5}', 'BIT 100081').group(0)           # re.search() 匹配后返回match对象，使用match.group(0)获取

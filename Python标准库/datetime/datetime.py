@@ -5,7 +5,7 @@
 # @File    : datetime.py
 # @Software: PyCharm
 
-# 用于日期和时间操作
+# 日期和时间操作
 from datetime import *
 
 # now = datetime.now()            # datetime类：2019-05-30 17:30:33.682538

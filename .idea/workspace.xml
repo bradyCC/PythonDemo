@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a4e9700-8243-4fcf-8e65-c9d9ba611dc4" name="Default Changelist" comment="Python标准库">
-      <change afterPath="$PROJECT_DIR$/Python标准库/codecs/t.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python标准库/codecs/t1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python标准库/random/random.py" afterDir="false" />
+    <list default="true" id="8a4e9700-8243-4fcf-8e65-c9d9ba611dc4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Python标准库/time/time.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python标准库/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python标准库/codecs/codecs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python标准库/datetime/datetime.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python标准库/datetime/datetime.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python标准库/math/math.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python标准库/math/math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python标准库/os/os.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python标准库/os/os.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python标准库/random/random.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python标准库/random/random.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python标准库/re/re.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python标准库/re/re.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,8 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python标准库/os/os.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+            <state relative-caret-position="119">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -71,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/Python标准库/re/re.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -80,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/Python标准库/datetime/datetime.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -88,26 +87,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python标准库/math/math.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python标准库/random/random.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+            <state relative-caret-position="119">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python标准库/random/random.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python标准库/time/time.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python标准库/codecs/codecs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+            <state relative-caret-position="119">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -144,8 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/login/login/spiders/renren.py" />
-        <option value="$PROJECT_DIR$/sunshine/README.md" />
         <option value="$PROJECT_DIR$/circ/circ/items.py" />
         <option value="$PROJECT_DIR$/circ/circ/middlewares.py" />
         <option value="$PROJECT_DIR$/circ/circ/pipelines.py" />
@@ -189,12 +195,14 @@
         <option value="$PROJECT_DIR$/Python标准库/os.py" />
         <option value="$PROJECT_DIR$/Python标准库/datetime.py" />
         <option value="$PROJECT_DIR$/Python标准库/codecs/text.txt" />
-        <option value="$PROJECT_DIR$/Python标准库/datetime/datetime.py" />
-        <option value="$PROJECT_DIR$/Python标准库/re/re.py" />
         <option value="$PROJECT_DIR$/Python标准库/codecs/t1.txt" />
-        <option value="$PROJECT_DIR$/Python标准库/codecs/codecs.py" />
-        <option value="$PROJECT_DIR$/Python标准库/math/math.py" />
+        <option value="$PROJECT_DIR$/Python标准库/time/time.py" />
+        <option value="$PROJECT_DIR$/Python标准库/re/re.py" />
         <option value="$PROJECT_DIR$/Python标准库/random/random.py" />
+        <option value="$PROJECT_DIR$/Python标准库/os/os.py" />
+        <option value="$PROJECT_DIR$/Python标准库/math/math.py" />
+        <option value="$PROJECT_DIR$/Python标准库/datetime/datetime.py" />
+        <option value="$PROJECT_DIR$/Python标准库/codecs/codecs.py" />
       </list>
     </option>
   </component>
@@ -266,6 +274,12 @@
               <item name="Python标准库" type="462c0819:PsiDirectoryNode" />
               <item name="sys" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Python标准库" type="462c0819:PsiDirectoryNode" />
+              <item name="time" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -311,7 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.random">
+  <component name="RunManager" selected="Python.time">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -410,8 +424,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="time" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python标准库/time" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python标准库/time/time.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.time" />
         <item itemvalue="Python.random" />
         <item itemvalue="Python.math" />
         <item itemvalue="Python.codecs" />
@@ -488,14 +522,7 @@
       <workItem from="1559207942588" duration="22000" />
       <workItem from="1559207967088" duration="185000" />
       <workItem from="1559208153869" duration="223000" />
-      <workItem from="1559208379123" duration="1774000" />
-    </task>
-    <task id="LOCAL-00005" summary="Python Demo">
-      <created>1557565621117</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1557565621169</updated>
+      <workItem from="1559208379123" duration="2003000" />
     </task>
     <task id="LOCAL-00006" summary="Python Demo">
       <created>1557568642455</created>
@@ -833,11 +860,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559208841608</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Python标准库">
+      <created>1559210167992</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1559210167993</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151748000" />
+    <option name="totallyTimeSpent" value="151977000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -852,7 +886,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.17590618" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.17590618" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info id="Favorites" order="2" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -867,7 +901,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5101279" side_tool="true" weight="0.39045554" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4989339" weight="0.38828632" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.48987207" visible="true" weight="0.39045554" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.48987207" visible="true" weight="0.39045554" />
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -944,13 +978,6 @@
     <SUITE FILE_PATH="coverage/PythonDemo$index.coverage" NAME="index Coverage Results" MODIFIED="1559188601615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python标准库/sys" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Python37/Lib/sre_parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="650" selection-start-line="650" selection-end-line="650" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/doubanmovie/data.txt" />
     <entry file="file://$PROJECT_DIR$/doubanmovie/scrapy.cfg" />
     <entry file="file://$PROJECT_DIR$/sunshine/sunshine/settings.py">
@@ -1096,27 +1123,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python标准库/os/os.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python标准库/datetime/datetime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python标准库/re/re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python标准库/codecs/t.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -1127,24 +1133,52 @@
     <entry file="file://$PROJECT_DIR$/Python标准库/codecs/t1.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python标准库/codecs/codecs.py">
+    <entry file="file://$PROJECT_DIR$/Python标准库/time/time.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        <state relative-caret-position="119">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python标准库/math/math.py">
+    <entry file="file://$PROJECT_DIR$/Python标准库/re/re.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="119">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python标准库/random/random.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python标准库/os/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python标准库/math/math.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python标准库/datetime/datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python标准库/codecs/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
