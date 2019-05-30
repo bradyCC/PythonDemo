@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a4e9700-8243-4fcf-8e65-c9d9ba611dc4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonNotes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonNotes/text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python标准库/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python标准库/math/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python标准库/os/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python标准库/re/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python标准库/sys/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,40 +58,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/note/note/settings.py">
+        <entry file="file://$PROJECT_DIR$/Python标准库/os/index.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1615">
-              <caret line="95" column="15" selection-start-line="95" selection-end-line="95" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/note/note/items.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="16" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="16" />
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/note/note/pipelines.py">
+        <entry file="file://$PROJECT_DIR$/Python标准库/re/index.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+            <state relative-caret-position="187">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/note/note/spiders/ghoul.py">
+        <entry file="file://$PROJECT_DIR$/网络爬虫/re库/index.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-              <folding>
-                <element signature="e#24#37#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="374">
+              <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -123,11 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/网络爬虫/获取亚马逊商品页面数据/index.py" />
-        <option value="$PROJECT_DIR$/网络爬虫/获取京东商品页面数据/index.py" />
-        <option value="$PROJECT_DIR$/网络爬虫/Requests库/向百度360搜索引擎提交关键词/index.py" />
-        <option value="$PROJECT_DIR$/网络爬虫/Requests库/获取网络图片并保存/index.py" />
-        <option value="$PROJECT_DIR$/网络爬虫/Requests库/IP地址归属地自动查询/index.py" />
         <option value="$PROJECT_DIR$/网络爬虫/re库/index.py" />
         <option value="$PROJECT_DIR$/网络爬虫/selenium库/index.py" />
         <option value="$PROJECT_DIR$/网络爬虫/Urllib库/index.py" />
@@ -174,6 +162,11 @@
         <option value="$PROJECT_DIR$/note/note/settings.py" />
         <option value="$PROJECT_DIR$/note/note/spiders/ghoul.py" />
         <option value="$PROJECT_DIR$/note/note/pipelines.py" />
+        <option value="$PROJECT_DIR$/Python标准库/index.py" />
+        <option value="$PROJECT_DIR$/Python标准库/math/index.py" />
+        <option value="$PROJECT_DIR$/Python标准库/sys/index.py" />
+        <option value="$PROJECT_DIR$/Python标准库/os/index.py" />
+        <option value="$PROJECT_DIR$/Python标准库/re/index.py" />
       </list>
     </option>
   </component>
@@ -205,6 +198,46 @@
               <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Python标准库" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Python标准库" type="462c0819:PsiDirectoryNode" />
+              <item name="math" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Python标准库" type="462c0819:PsiDirectoryNode" />
+              <item name="os" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Python标准库" type="462c0819:PsiDirectoryNode" />
+              <item name="re" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Python标准库" type="462c0819:PsiDirectoryNode" />
+              <item name="sys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="网络爬虫" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="网络爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="re库" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -230,10 +263,10 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyWork\PythonDemo\PythonBase" />
       <recent name="D:\MyWork\PythonDemo\PythonSpider" />
       <recent name="D:\MyWork\PythonDemo\网络爬虫\Requests库" />
       <recent name="D:\MyWork\PythonDemo\网络爬虫" />
-      <recent name="D:\MyWork\PythonDemo\PythonBase" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -248,7 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.douban (1)">
+  <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -271,200 +304,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="douban (1)" type="PythonConfigurationType" factoryName="Python">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/doubanmovie/doubanmovie/spiders" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doubanmovie/doubanmovie/spiders/douban.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="douban" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/doubanText/doubanText/spiders" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doubanText/doubanText/spiders/douban.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="doubanTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/douban/douban/spiders" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douban/douban/spiders/doubanTest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pipelines" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/doubanText/doubanText" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doubanText/doubanText/pipelines.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/douban/douban/spiders" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douban/douban/spiders/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test4" type="PythonConfigurationType" factoryName="Python">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonSpider" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonSpider/test4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="text" type="PythonConfigurationType" factoryName="Python">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网络爬虫/Requests库" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\MyWork\PythonDemo\PythonSpider\text.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="text3" type="PythonConfigurationType" factoryName="Python">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonSpider" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonSpider/text3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.test4" />
-      <item itemvalue="Python.douban (1)" />
-      <item itemvalue="Python.text" />
-      <item itemvalue="Python.text3" />
-      <item itemvalue="Python.doubanTest" />
-      <item itemvalue="Python.pipelines" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.douban" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.doubanTest" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.pipelines" />
-        <item itemvalue="Python.douban" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
@@ -525,20 +364,12 @@
       <workItem from="1558746856871" duration="23369000" />
       <workItem from="1558773697888" duration="4898000" />
       <workItem from="1558948237616" duration="307000" />
-    </task>
-    <task id="LOCAL-00001" summary="Python Demo">
-      <created>1548150755547</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1548150755547</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Python Demo">
-      <created>1548151210493</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1548151210493</updated>
+      <workItem from="1559187132969" duration="3630000" />
+      <workItem from="1559194104448" duration="1811000" />
+      <workItem from="1559203326717" duration="100000" />
+      <workItem from="1559203966690" duration="1852000" />
+      <workItem from="1559206080203" duration="6000" />
+      <workItem from="1559206154036" duration="1485000" />
     </task>
     <task id="LOCAL-00003" summary="Python Demo">
       <created>1549590827178</created>
@@ -869,11 +700,25 @@
       <option name="project" value="LOCAL" />
       <updated>1558948251094</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="更新">
+      <created>1559187322070</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1559187322071</updated>
+    </task>
+    <task id="LOCAL-00051" summary="更新">
+      <created>1559187424369</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1559187424369</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140361000" />
+    <option name="totallyTimeSpent" value="149245000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -886,23 +731,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.15831557" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.16791044" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info id="Favorites" order="2" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49253732" weight="0.37744033" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49253732" visible="true" weight="0.36550975" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44360086" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.324295" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49307036" visible="true" weight="0.3253796" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49253732" weight="0.3253796" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50692964" side_tool="true" visible="true" weight="0.3253796" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" weight="0.41603467" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4904051" weight="0.39045554" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5101279" side_tool="true" weight="0.39045554" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4989339" weight="0.38937092" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.48987207" weight="0.39045554" />
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -962,57 +808,20 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Python Demo" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/Python.iml&#10;#&#9;.idea/workspace.xml&#10;#&#9;PythonNotes/text1.py&#10;#&#9;PythonNotes/text2.py&#10;#&#9;PythonSpider/text.py&#10;#&#9;PythonSpider/text2.py&#10;#&#9;网络爬虫/Requests库/text.py&#10;#&#9;网络爬虫/Requests库/text2.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/Python.iml&#10;#&#9;.idea/workspace.xml&#10;#&#9;PythonNotes/text1.py&#10;#&#9;PythonNotes/text2.py&#10;#&#9;PythonSpider/text.py&#10;#&#9;PythonSpider/text2.py&#10;#&#9;网络爬虫/Requests库/text.py&#10;#&#9;网络爬虫/Requests库/text2.py" />
+    <MESSAGE value="更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonDemo$doubanText.coverage" NAME="doubanText Coverage Results" MODIFIED="1558752684686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban/douban/spiders" />
     <SUITE FILE_PATH="coverage/PythonDemo$text3.coverage" NAME="text3 Coverage Results" MODIFIED="1558749226111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSpider" />
     <SUITE FILE_PATH="coverage/PythonDemo$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1558772747697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSpider" />
     <SUITE FILE_PATH="coverage/PythonDemo$douban__1_.coverage" NAME="douban (1) Coverage Results" MODIFIED="1558773897706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doubanmovie/doubanmovie/spiders" />
+    <SUITE FILE_PATH="coverage/PythonDemo$index__1_.coverage" NAME="index (1) Coverage Results" MODIFIED="1559204950598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python标准库/os" />
     <SUITE FILE_PATH="coverage/PythonDemo$douban.coverage" NAME="douban Coverage Results" MODIFIED="1558752903334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doubanText/doubanText/spiders" />
+    <SUITE FILE_PATH="coverage/PythonDemo$index__2_.coverage" NAME="index (2) Coverage Results" MODIFIED="1559207622138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python标准库/re" />
+    <SUITE FILE_PATH="coverage/PythonDemo$index.coverage" NAME="index Coverage Results" MODIFIED="1559188601615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python标准库/sys" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/doubanText/log.log" />
-    <entry file="file://$PROJECT_DIR$/doubanText/doubanText/items.py" />
-    <entry file="file://$PROJECT_DIR$/doubanText/doubanText/pipelines.py" />
-    <entry file="file://$PROJECT_DIR$/doubanText/doubanText/middlewares.py" />
-    <entry file="file://$PROJECT_DIR$/circ/data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" selection-start-column="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circ/log.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="96" column="84" selection-start-line="96" selection-start-column="84" selection-end-line="96" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doubanText/doubanText/spiders/douban.py" />
-    <entry file="file://$PROJECT_DIR$/doubanText/doubanText/spiders/doubanT.py" />
-    <entry file="file://$PROJECT_DIR$/doubanText/doubanText/settings.py" />
-    <entry file="file://$PROJECT_DIR$/sunshine/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban/main.py" />
-    <entry file="file://$PROJECT_DIR$/douban/douban/spiders/test.py" />
-    <entry file="file://$PROJECT_DIR$/douban/douban/spiders/doubanText.py" />
-    <entry file="file://$PROJECT_DIR$/douban/scrapy.cfg" />
-    <entry file="file://$PROJECT_DIR$/douban/douban/middlewares.py" />
-    <entry file="file://$PROJECT_DIR$/douban/douban/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/douban/1.html" />
-    <entry file="file://$PROJECT_DIR$/douban/test.html" />
-    <entry file="file://$PROJECT_DIR$/douban/douban/pipelines.py" />
-    <entry file="file://$PROJECT_DIR$/douban/douban/items.py" />
     <entry file="file://$PROJECT_DIR$/douban/douban/settings.py" />
     <entry file="file://$PROJECT_DIR$/douban/douban/spiders/doubanTest.py" />
     <entry file="file://$PROJECT_DIR$/网络爬虫/获取百度VIP音乐并保存/index.py">
@@ -1022,23 +831,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/book/book/spiders/jd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="14" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amazon/amazon/spiders/mobile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baidu/baidu/spiders/demo.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/sunshine/sunshine/middlewares.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1010" />
@@ -1047,14 +839,7 @@
     <entry file="file://$PROJECT_DIR$/sunshine/sunshine/pipelines.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/jingdong/jingdong/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1316" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jingdong/jingdong/spiders/catalog.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/jingdong/jingdong/middlewares.py" />
     <entry file="file://D:/Python37/Lib/sre_parse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -1063,306 +848,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/doubanmovie/data.txt" />
-    <entry file="file://$PROJECT_DIR$/PythonSpider/test4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doubanmovie/douban.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="1326" column="26" selection-start-line="1326" selection-start-column="14" selection-end-line="1326" selection-end-column="26" />
-          <folding>
-            <element signature="e#10716#10722#0" expanded="true" />
-            <element signature="e#10723#10729#0" expanded="true" />
-            <element signature="e#10813#10819#0" expanded="true" />
-            <element signature="e#10820#10826#0" expanded="true" />
-            <element signature="e#11106#11112#0" expanded="true" />
-            <element signature="e#11112#11118#0" expanded="true" />
-            <element signature="e#11118#11124#0" expanded="true" />
-            <element signature="e#11188#11194#0" expanded="true" />
-            <element signature="e#11195#11201#0" expanded="true" />
-            <element signature="e#11203#11209#0" expanded="true" />
-            <element signature="e#11210#11216#0" expanded="true" />
-            <element signature="e#12519#12525#0" expanded="true" />
-            <element signature="e#12526#12532#0" expanded="true" />
-            <element signature="e#12814#12820#0" expanded="true" />
-            <element signature="e#12820#12826#0" expanded="true" />
-            <element signature="e#12826#12832#0" expanded="true" />
-            <element signature="e#12910#12916#0" expanded="true" />
-            <element signature="e#12917#12923#0" expanded="true" />
-            <element signature="e#12930#12936#0" expanded="true" />
-            <element signature="e#12937#12943#0" expanded="true" />
-            <element signature="e#14256#14262#0" expanded="true" />
-            <element signature="e#14263#14269#0" expanded="true" />
-            <element signature="e#14333#14339#0" expanded="true" />
-            <element signature="e#14340#14346#0" expanded="true" />
-            <element signature="e#14615#14621#0" expanded="true" />
-            <element signature="e#14621#14627#0" expanded="true" />
-            <element signature="e#14627#14633#0" expanded="true" />
-            <element signature="e#14702#14708#0" expanded="true" />
-            <element signature="e#14709#14715#0" expanded="true" />
-            <element signature="e#14717#14723#0" expanded="true" />
-            <element signature="e#14724#14730#0" expanded="true" />
-            <element signature="e#16048#16054#0" expanded="true" />
-            <element signature="e#16055#16061#0" expanded="true" />
-            <element signature="e#16133#16139#0" expanded="true" />
-            <element signature="e#16140#16146#0" expanded="true" />
-            <element signature="e#16413#16419#0" expanded="true" />
-            <element signature="e#16419#16425#0" expanded="true" />
-            <element signature="e#16425#16431#0" expanded="true" />
-            <element signature="e#16494#16500#0" expanded="true" />
-            <element signature="e#16501#16507#0" expanded="true" />
-            <element signature="e#16509#16515#0" expanded="true" />
-            <element signature="e#16516#16522#0" expanded="true" />
-            <element signature="e#17831#17837#0" expanded="true" />
-            <element signature="e#17838#17844#0" expanded="true" />
-            <element signature="e#17919#17925#0" expanded="true" />
-            <element signature="e#17926#17932#0" expanded="true" />
-            <element signature="e#18223#18229#0" expanded="true" />
-            <element signature="e#18229#18235#0" expanded="true" />
-            <element signature="e#18235#18241#0" expanded="true" />
-            <element signature="e#18305#18311#0" expanded="true" />
-            <element signature="e#18312#18318#0" expanded="true" />
-            <element signature="e#18321#18327#0" expanded="true" />
-            <element signature="e#18328#18334#0" expanded="true" />
-            <element signature="e#19646#19652#0" expanded="true" />
-            <element signature="e#19653#19659#0" expanded="true" />
-            <element signature="e#19726#19732#0" expanded="true" />
-            <element signature="e#19733#19739#0" expanded="true" />
-            <element signature="e#20007#20013#0" expanded="true" />
-            <element signature="e#20013#20019#0" expanded="true" />
-            <element signature="e#20019#20025#0" expanded="true" />
-            <element signature="e#20088#20094#0" expanded="true" />
-            <element signature="e#20095#20101#0" expanded="true" />
-            <element signature="e#20103#20109#0" expanded="true" />
-            <element signature="e#20110#20116#0" expanded="true" />
-            <element signature="e#21430#21436#0" expanded="true" />
-            <element signature="e#21437#21443#0" expanded="true" />
-            <element signature="e#21511#21517#0" expanded="true" />
-            <element signature="e#21518#21524#0" expanded="true" />
-            <element signature="e#21739#21745#0" expanded="true" />
-            <element signature="e#21745#21751#0" expanded="true" />
-            <element signature="e#21751#21757#0" expanded="true" />
-            <element signature="e#21827#21833#0" expanded="true" />
-            <element signature="e#21834#21840#0" expanded="true" />
-            <element signature="e#21842#21848#0" expanded="true" />
-            <element signature="e#21849#21855#0" expanded="true" />
-            <element signature="e#23177#23183#0" expanded="true" />
-            <element signature="e#23184#23190#0" expanded="true" />
-            <element signature="e#23199#23204#0" expanded="true" />
-            <element signature="e#23270#23276#0" expanded="true" />
-            <element signature="e#23277#23283#0" expanded="true" />
-            <element signature="e#23564#23570#0" expanded="true" />
-            <element signature="e#23570#23576#0" expanded="true" />
-            <element signature="e#23576#23582#0" expanded="true" />
-            <element signature="e#23643#23649#0" expanded="true" />
-            <element signature="e#23650#23656#0" expanded="true" />
-            <element signature="e#23658#23664#0" expanded="true" />
-            <element signature="e#23665#23671#0" expanded="true" />
-            <element signature="e#24987#24993#0" expanded="true" />
-            <element signature="e#24994#25000#0" expanded="true" />
-            <element signature="e#25069#25075#0" expanded="true" />
-            <element signature="e#25076#25082#0" expanded="true" />
-            <element signature="e#25363#25369#0" expanded="true" />
-            <element signature="e#25369#25375#0" expanded="true" />
-            <element signature="e#25375#25381#0" expanded="true" />
-            <element signature="e#25438#25444#0" expanded="true" />
-            <element signature="e#25445#25451#0" expanded="true" />
-            <element signature="e#25456#25462#0" expanded="true" />
-            <element signature="e#25463#25469#0" expanded="true" />
-            <element signature="e#26797#26803#0" expanded="true" />
-            <element signature="e#26804#26810#0" expanded="true" />
-            <element signature="e#26822#26827#0" expanded="true" />
-            <element signature="e#26893#26899#0" expanded="true" />
-            <element signature="e#26900#26906#0" expanded="true" />
-            <element signature="e#27186#27192#0" expanded="true" />
-            <element signature="e#27192#27198#0" expanded="true" />
-            <element signature="e#27198#27204#0" expanded="true" />
-            <element signature="e#27265#27271#0" expanded="true" />
-            <element signature="e#27272#27278#0" expanded="true" />
-            <element signature="e#27283#27289#0" expanded="true" />
-            <element signature="e#27290#27296#0" expanded="true" />
-            <element signature="e#28611#28617#0" expanded="true" />
-            <element signature="e#28618#28624#0" expanded="true" />
-            <element signature="e#28690#28696#0" expanded="true" />
-            <element signature="e#28697#28703#0" expanded="true" />
-            <element signature="e#28981#28987#0" expanded="true" />
-            <element signature="e#28987#28993#0" expanded="true" />
-            <element signature="e#28993#28999#0" expanded="true" />
-            <element signature="e#29063#29069#0" expanded="true" />
-            <element signature="e#29070#29076#0" expanded="true" />
-            <element signature="e#29078#29084#0" expanded="true" />
-            <element signature="e#29085#29091#0" expanded="true" />
-            <element signature="e#30411#30417#0" expanded="true" />
-            <element signature="e#30418#30424#0" expanded="true" />
-            <element signature="e#30492#30498#0" expanded="true" />
-            <element signature="e#30499#30505#0" expanded="true" />
-            <element signature="e#30722#30728#0" expanded="true" />
-            <element signature="e#30728#30734#0" expanded="true" />
-            <element signature="e#30734#30740#0" expanded="true" />
-            <element signature="e#30804#30810#0" expanded="true" />
-            <element signature="e#30811#30817#0" expanded="true" />
-            <element signature="e#30819#30825#0" expanded="true" />
-            <element signature="e#30826#30832#0" expanded="true" />
-            <element signature="e#32155#32161#0" expanded="true" />
-            <element signature="e#32162#32168#0" expanded="true" />
-            <element signature="e#32197#32202#0" expanded="true" />
-            <element signature="e#32268#32274#0" expanded="true" />
-            <element signature="e#32275#32281#0" expanded="true" />
-            <element signature="e#32564#32570#0" expanded="true" />
-            <element signature="e#32570#32576#0" expanded="true" />
-            <element signature="e#32576#32582#0" expanded="true" />
-            <element signature="e#32643#32649#0" expanded="true" />
-            <element signature="e#32650#32656#0" expanded="true" />
-            <element signature="e#32659#32665#0" expanded="true" />
-            <element signature="e#32666#32672#0" expanded="true" />
-            <element signature="e#34002#34008#0" expanded="true" />
-            <element signature="e#34009#34015#0" expanded="true" />
-            <element signature="e#34088#34094#0" expanded="true" />
-            <element signature="e#34095#34101#0" expanded="true" />
-            <element signature="e#34385#34391#0" expanded="true" />
-            <element signature="e#34391#34397#0" expanded="true" />
-            <element signature="e#34397#34403#0" expanded="true" />
-            <element signature="e#34457#34463#0" expanded="true" />
-            <element signature="e#34464#34470#0" expanded="true" />
-            <element signature="e#34478#34484#0" expanded="true" />
-            <element signature="e#34485#34491#0" expanded="true" />
-            <element signature="e#35812#35818#0" expanded="true" />
-            <element signature="e#35819#35825#0" expanded="true" />
-            <element signature="e#35900#35906#0" expanded="true" />
-            <element signature="e#35907#35913#0" expanded="true" />
-            <element signature="e#36182#36188#0" expanded="true" />
-            <element signature="e#36188#36194#0" expanded="true" />
-            <element signature="e#36194#36200#0" expanded="true" />
-            <element signature="e#36271#36277#0" expanded="true" />
-            <element signature="e#36278#36284#0" expanded="true" />
-            <element signature="e#36286#36292#0" expanded="true" />
-            <element signature="e#36293#36299#0" expanded="true" />
-            <element signature="e#37631#37637#0" expanded="true" />
-            <element signature="e#37638#37644#0" expanded="true" />
-            <element signature="e#37715#37721#0" expanded="true" />
-            <element signature="e#37722#37728#0" expanded="true" />
-            <element signature="e#38001#38007#0" expanded="true" />
-            <element signature="e#38007#38013#0" expanded="true" />
-            <element signature="e#38013#38019#0" expanded="true" />
-            <element signature="e#38096#38102#0" expanded="true" />
-            <element signature="e#38103#38109#0" expanded="true" />
-            <element signature="e#38116#38122#0" expanded="true" />
-            <element signature="e#38123#38129#0" expanded="true" />
-            <element signature="e#39441#39447#0" expanded="true" />
-            <element signature="e#39448#39454#0" expanded="true" />
-            <element signature="e#39526#39532#0" expanded="true" />
-            <element signature="e#39533#39539#0" expanded="true" />
-            <element signature="e#39821#39827#0" expanded="true" />
-            <element signature="e#39827#39833#0" expanded="true" />
-            <element signature="e#39833#39839#0" expanded="true" />
-            <element signature="e#39900#39906#0" expanded="true" />
-            <element signature="e#39907#39913#0" expanded="true" />
-            <element signature="e#39925#39931#0" expanded="true" />
-            <element signature="e#39932#39938#0" expanded="true" />
-            <element signature="e#41259#41265#0" expanded="true" />
-            <element signature="e#41266#41272#0" expanded="true" />
-            <element signature="e#41339#41345#0" expanded="true" />
-            <element signature="e#41346#41352#0" expanded="true" />
-            <element signature="e#41622#41628#0" expanded="true" />
-            <element signature="e#41628#41634#0" expanded="true" />
-            <element signature="e#41634#41640#0" expanded="true" />
-            <element signature="e#41712#41718#0" expanded="true" />
-            <element signature="e#41719#41725#0" expanded="true" />
-            <element signature="e#41727#41733#0" expanded="true" />
-            <element signature="e#41734#41740#0" expanded="true" />
-            <element signature="e#43059#43065#0" expanded="true" />
-            <element signature="e#43066#43072#0" expanded="true" />
-            <element signature="e#43145#43151#0" expanded="true" />
-            <element signature="e#43152#43158#0" expanded="true" />
-            <element signature="e#43168#43173#0" expanded="true" />
-            <element signature="e#43456#43462#0" expanded="true" />
-            <element signature="e#43462#43468#0" expanded="true" />
-            <element signature="e#43468#43474#0" expanded="true" />
-            <element signature="e#43526#43532#0" expanded="true" />
-            <element signature="e#43533#43539#0" expanded="true" />
-            <element signature="e#43541#43547#0" expanded="true" />
-            <element signature="e#43548#43554#0" expanded="true" />
-            <element signature="e#44872#44878#0" expanded="true" />
-            <element signature="e#44879#44885#0" expanded="true" />
-            <element signature="e#44948#44954#0" expanded="true" />
-            <element signature="e#44955#44961#0" expanded="true" />
-            <element signature="e#45166#45172#0" expanded="true" />
-            <element signature="e#45172#45178#0" expanded="true" />
-            <element signature="e#45178#45184#0" expanded="true" />
-            <element signature="e#45258#45264#0" expanded="true" />
-            <element signature="e#45265#45271#0" expanded="true" />
-            <element signature="e#45273#45279#0" expanded="true" />
-            <element signature="e#45280#45286#0" expanded="true" />
-            <element signature="e#46610#46616#0" expanded="true" />
-            <element signature="e#46617#46623#0" expanded="true" />
-            <element signature="e#46686#46692#0" expanded="true" />
-            <element signature="e#46693#46699#0" expanded="true" />
-            <element signature="e#46977#46983#0" expanded="true" />
-            <element signature="e#46983#46989#0" expanded="true" />
-            <element signature="e#46989#46995#0" expanded="true" />
-            <element signature="e#47051#47057#0" expanded="true" />
-            <element signature="e#47058#47064#0" expanded="true" />
-            <element signature="e#47066#47072#0" expanded="true" />
-            <element signature="e#47073#47079#0" expanded="true" />
-            <element signature="e#48401#48407#0" expanded="true" />
-            <element signature="e#48408#48414#0" expanded="true" />
-            <element signature="e#48482#48488#0" expanded="true" />
-            <element signature="e#48489#48495#0" expanded="true" />
-            <element signature="e#48790#48796#0" expanded="true" />
-            <element signature="e#48796#48802#0" expanded="true" />
-            <element signature="e#48802#48808#0" expanded="true" />
-            <element signature="e#48856#48862#0" expanded="true" />
-            <element signature="e#48863#48869#0" expanded="true" />
-            <element signature="e#48871#48877#0" expanded="true" />
-            <element signature="e#48878#48884#0" expanded="true" />
-            <element signature="e#50223#50229#0" expanded="true" />
-            <element signature="e#50230#50236#0" expanded="true" />
-            <element signature="e#50320#50326#0" expanded="true" />
-            <element signature="e#50327#50333#0" expanded="true" />
-            <element signature="e#50613#50619#0" expanded="true" />
-            <element signature="e#50619#50625#0" expanded="true" />
-            <element signature="e#50625#50631#0" expanded="true" />
-            <element signature="e#50693#50699#0" expanded="true" />
-            <element signature="e#50700#50706#0" expanded="true" />
-            <element signature="e#50708#50714#0" expanded="true" />
-            <element signature="e#50715#50721#0" expanded="true" />
-            <element signature="e#52031#52037#0" expanded="true" />
-            <element signature="e#52038#52044#0" expanded="true" />
-            <element signature="e#52111#52117#0" expanded="true" />
-            <element signature="e#52118#52124#0" expanded="true" />
-            <element signature="e#52389#52395#0" expanded="true" />
-            <element signature="e#52395#52401#0" expanded="true" />
-            <element signature="e#52401#52407#0" expanded="true" />
-            <element signature="e#52479#52485#0" expanded="true" />
-            <element signature="e#52486#52492#0" expanded="true" />
-            <element signature="e#52494#52500#0" expanded="true" />
-            <element signature="e#52501#52507#0" expanded="true" />
-            <element signature="e#53824#53830#0" expanded="true" />
-            <element signature="e#53831#53837#0" expanded="true" />
-            <element signature="e#53909#53915#0" expanded="true" />
-            <element signature="e#53916#53922#0" expanded="true" />
-            <element signature="e#54160#54166#0" expanded="true" />
-            <element signature="e#54166#54172#0" expanded="true" />
-            <element signature="e#54172#54178#0" expanded="true" />
-            <element signature="e#54219#54225#0" expanded="true" />
-            <element signature="e#54226#54232#0" expanded="true" />
-            <element signature="e#54234#54240#0" expanded="true" />
-            <element signature="e#54241#54247#0" expanded="true" />
-            <element signature="e#54998#55002#0" expanded="true" />
-            <element signature="e#55923#55927#0" expanded="true" />
-            <element signature="e#57114#57120#0" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doubanmovie/scrapy.cfg">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/doubanmovie/scrapy.cfg" />
     <entry file="file://$PROJECT_DIR$/sunshine/sunshine/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1370,9 +856,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jingdong/jingdong/settings.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/jingdong/jingdong/settings.py" />
     <entry file="file://$PROJECT_DIR$/circ/circ/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1380,33 +864,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/spiders/douban.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/circ/circ/spiders/cf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/items.py" />
     <entry file="file://$PROJECT_DIR$/circ/circ/items.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1427,58 +885,132 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" column="52" lean-forward="true" selection-start-line="68" selection-start-column="52" selection-end-line="68" selection-end-column="52" />
+    <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/middlewares.py" />
+    <entry file="file://$PROJECT_DIR$/note/note/items.py" />
+    <entry file="file://$PROJECT_DIR$/note/note/spiders/ghoul.py" />
+    <entry file="file://$PROJECT_DIR$/note/note/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/sunshine/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-225">
+            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/pipelines.py">
+    <entry file="file://$PROJECT_DIR$/sunshine/sunshine/spiders/sun.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="391">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="96" column="59" lean-forward="true" selection-start-line="96" selection-start-column="59" selection-end-line="96" selection-end-column="59" />
-          <folding>
-            <element signature="e#169#195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/PythonNotes/text.html" />
+    <entry file="file://$PROJECT_DIR$/PythonBase/advancedfeatures/index.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/note/note/settings.py">
+    <entry file="file://$PROJECT_DIR$/note/note/settings.py" />
+    <entry file="file://$PROJECT_DIR$/jingdong/a.txt" />
+    <entry file="file://$PROJECT_DIR$/jingdong/jingdong/spiders/catalog.py" />
+    <entry file="file://$PROJECT_DIR$/doubanmovie/douban.html" />
+    <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/settings.py" />
+    <entry file="file://$PROJECT_DIR$/doubanmovie/doubanmovie/spiders/douban.py" />
+    <entry file="file://$PROJECT_DIR$/circ/circ/spiders/cf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
-          <caret line="95" column="15" selection-start-line="95" selection-end-line="95" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/note/note/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/note/note/spiders/ghoul.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="170">
+          <caret line="22" column="51" lean-forward="true" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/note/note/pipelines.py">
+    <entry file="file://$PROJECT_DIR$/circ/data.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        <state relative-caret-position="306">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/book/spiders/jd.py" />
+    <entry file="file://$PROJECT_DIR$/baidu/baidu/spiders/demo.py" />
+    <entry file="file://$PROJECT_DIR$/amazon/amazon/spiders/mobile.py" />
+    <entry file="file://$PROJECT_DIR$/PythonBase/text8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonBase/text7.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonBase/text6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonBase/test1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonBase/test9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python标准库/index.py" />
+    <entry file="file://$PROJECT_DIR$/Python标准库/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python标准库/sys/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网络爬虫/中国大学排名定向爬虫/index.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网络爬虫/获取猫眼电影Top100数据/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python标准库/math/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python标准库/os/data.txt" />
+    <entry file="file://$PROJECT_DIR$/Python标准库/os/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/网络爬虫/re库/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python标准库/re/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
         </state>
       </provider>
     </entry>
