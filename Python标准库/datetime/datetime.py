@@ -12,3 +12,9 @@ from datetime import *
 # now = date(2019, 5, 1)          # date类：默认需要传year、month、day
 # now = date.today()              # 当日：格式为 2019-05-30
 # now = time(12, 30, 0)           # time类：12:30:00
+
+# 时间戳转换为指定格式的日期
+timeStamp = 1551077515
+timeArray = datetime.utcfromtimestamp(timeStamp)
+formatTime = timeArray.strftime('%Y-%m-%d %H:%M:%S')
+print(formatTime)
