@@ -8,4 +8,10 @@
 # 时间戳
 import time
 
-print(time.time())
+# print(time.time())
+
+# 时间戳转换为指定格式的日期
+timeStamp = 1551077515
+timeArray = time.localtime(timeStamp)
+formatTime = time.strftime('%Y-%m-%d %H:%M:%S', timeArray)
+print(formatTime)
