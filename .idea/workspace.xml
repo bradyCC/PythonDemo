@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a4e9700-8243-4fcf-8e65-c9d9ba611dc4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+    <list default="true" id="8a4e9700-8243-4fcf-8e65-c9d9ba611dc4" name="Default Changelist" comment="时间戳转换为指定格式日期">
+      <change afterPath="$PROJECT_DIR$/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ip.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text/log.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text/text/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text/text/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text/text/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text/text/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text/text/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text/text/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text/text/spiders/ipProxy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,7 +63,55 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="221">
+                  <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/text/text.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret line="8" column="55" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="55" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/text/text/spiders/ipProxy.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+                  <folding>
+                    <element signature="e#24#37#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ip.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-240">
+                  <caret line="193" column="24" selection-start-line="193" selection-start-column="23" selection-end-line="193" selection-end-column="24" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -72,6 +132,16 @@
       <find>start=</find>
       <find>class=&quot;next&quot;</find>
       <find>ITEM_PIPELINES</find>
+      <find>112.91.220.72</find>
+      <find>http://183.129.207.81:10800</find>
+      <find>218.241.219.226:9999</find>
+      <find>163.125.70.28:8888</find>
+      <find>113.140.1.82:53281</find>
+      <find>121.79.131.58:8080</find>
+      <find>58.243.50.184:53281</find>
+      <find>121.69.37.6:9797</find>
+      <find>122.72.28.15:80</find>
+      <find>110.200.197.75</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -83,10 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/doubanText/doubanText/spiders/douban.py" />
-        <option value="$PROJECT_DIR$/doubanText/doubanText/spiders/doubanT.py" />
-        <option value="$PROJECT_DIR$/doubanText/doubanText/settings.py" />
-        <option value="$PROJECT_DIR$/douban/main.py" />
         <option value="$PROJECT_DIR$/douban/douban/spiders/test.py" />
         <option value="$PROJECT_DIR$/douban/douban/spiders/doubanText.py" />
         <option value="$PROJECT_DIR$/douban/douban/items.py" />
@@ -112,20 +178,12 @@
         <option value="$PROJECT_DIR$/Python标准库/datetime.py" />
         <option value="$PROJECT_DIR$/Python标准库/codecs/text.txt" />
         <option value="$PROJECT_DIR$/Python标准库/codecs/t1.txt" />
-        <option value="$PROJECT_DIR$/Python标准库/time/time.py" />
         <option value="$PROJECT_DIR$/Python标准库/re/re.py" />
         <option value="$PROJECT_DIR$/Python标准库/random/random.py" />
         <option value="$PROJECT_DIR$/Python标准库/os/os.py" />
         <option value="$PROJECT_DIR$/Python标准库/math/math.py" />
-        <option value="$PROJECT_DIR$/Python标准库/datetime/datetime.py" />
         <option value="$PROJECT_DIR$/Python标准库/codecs/codecs.py" />
-        <option value="$PROJECT_DIR$/text/text/settings.py" />
-        <option value="$PROJECT_DIR$/text/text/middlewares.py" />
-        <option value="$PROJECT_DIR$/text/main.py" />
-        <option value="$PROJECT_DIR$/text/text/items.py" />
         <option value="$PROJECT_DIR$/text/text/spiders/customer.py" />
-        <option value="$PROJECT_DIR$/text/text/pipelines.py" />
-        <option value="$PROJECT_DIR$/text/log.log" />
         <option value="$PROJECT_DIR$/Python标准库/json/json.py" />
         <option value="$PROJECT_DIR$/PythonBase/index1.py" />
         <option value="$PROJECT_DIR$/Python标准库/turtle/turtle1.py" />
@@ -133,7 +191,19 @@
         <option value="$PROJECT_DIR$/Python标准库/turtle/test1.py" />
         <option value="$PROJECT_DIR$/Python标准库/turtle/test2.py" />
         <option value="$PROJECT_DIR$/Python标准库/turtle/test3.py" />
-        <option value="$PROJECT_DIR$/PythonBase/index2.py" />
+        <option value="$PROJECT_DIR$/Python标准库/time/time.py" />
+        <option value="$PROJECT_DIR$/Python标准库/datetime/datetime.py" />
+        <option value="$PROJECT_DIR$/text/text/main.py" />
+        <option value="$PROJECT_DIR$/text/main.py" />
+        <option value="$PROJECT_DIR$/text/text/items.py" />
+        <option value="$PROJECT_DIR$/text/text/middlewares.py" />
+        <option value="$PROJECT_DIR$/text/text.json" />
+        <option value="$PROJECT_DIR$/text/text/spiders/ipProxy.py" />
+        <option value="$PROJECT_DIR$/text/text/pipelines.py" />
+        <option value="$PROJECT_DIR$/text/log.log" />
+        <option value="$PROJECT_DIR$/text/text/settings.py" />
+        <option value="$PROJECT_DIR$/ip.txt" />
+        <option value="$PROJECT_DIR$/index.py" />
       </list>
     </option>
   </component>
@@ -143,11 +213,11 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1440" />
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="877" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
@@ -158,7 +228,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,30 +238,26 @@
             <path>
               <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonBase" type="462c0819:PsiDirectoryNode" />
+              <item name="text" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="网络爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="text" type="462c0819:PsiDirectoryNode" />
+              <item name="text" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="网络爬虫" type="462c0819:PsiDirectoryNode" />
-              <item name="Requests库" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="网络爬虫" type="462c0819:PsiDirectoryNode" />
-              <item name="Requests库" type="462c0819:PsiDirectoryNode" />
-              <item name="IP地址归属地自动查询" type="462c0819:PsiDirectoryNode" />
+              <item name="text" type="462c0819:PsiDirectoryNode" />
+              <item name="text" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -213,15 +278,12 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyWork\PythonDemo\text" />
       <recent name="D:\MyWork\PythonDemo\Python标准库\sys" />
       <recent name="D:\MyWork\PythonDemo\Python标准库\re" />
       <recent name="D:\MyWork\PythonDemo\Python标准库\os" />
       <recent name="D:\MyWork\PythonDemo\Python标准库\math" />
-      <recent name="D:\MyWork\PythonDemo\Python标准库\datetime" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -236,7 +298,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.index2">
+  <component name="RunManager" selected="Python.index">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -259,7 +321,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="index (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="datetime" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,12 +329,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网络爬虫/Requests库/IP地址归属地自动查询" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python标准库/datetime" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫/Requests库/IP地址归属地自动查询/index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python标准库/datetime/datetime.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,16 +347,35 @@
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网络爬虫/Requests库" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络爬虫/Requests库/index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python标准库/turtle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python标准库/turtle/test1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,7 +384,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="index2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="time" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -311,12 +392,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonBase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python标准库/time" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonBase/index2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python标准库/time/time.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="turtle1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python标准库/turtle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\MyWork\PythonDemo\Python标准库\turtle\test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,15 +429,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.turtle1" />
+      <item itemvalue="Python.test1" />
+      <item itemvalue="Python.time" />
+      <item itemvalue="Python.datetime" />
       <item itemvalue="Python.index" />
-      <item itemvalue="Python.index (1)" />
-      <item itemvalue="Python.index2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.index2" />
-        <item itemvalue="Python.index (1)" />
         <item itemvalue="Python.index" />
+        <item itemvalue="Python.datetime" />
+        <item itemvalue="Python.time" />
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.turtle1" />
       </list>
     </recent_temporary>
   </component>
@@ -413,24 +520,8 @@
       <workItem from="1559291106354" duration="2661000" />
       <workItem from="1559350038994" duration="2159000" />
       <workItem from="1559354562532" duration="808000" />
-      <workItem from="1559371459627" duration="3897000" />
-      <workItem from="1559388655621" duration="7000" />
-      <workItem from="1559461334630" duration="272000" />
-      <workItem from="1559469629055" duration="1637000" />
-    </task>
-    <task id="LOCAL-00011" summary="Python Demo">
-      <created>1557718520674</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1557718520674</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Python Demo">
-      <created>1557718533450</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1557718533450</updated>
+      <workItem from="1559371459627" duration="4952000" />
+      <workItem from="1559527328039" duration="18108000" />
     </task>
     <task id="LOCAL-00013" summary="Python Demo">
       <created>1557726602200</created>
@@ -761,11 +852,25 @@
       <option name="project" value="LOCAL" />
       <updated>1559375242526</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="标准库turtle">
+      <created>1559377344197</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1559377344197</updated>
+    </task>
+    <task id="LOCAL-00061" summary="时间戳转换为指定格式日期">
+      <created>1559377830771</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1559377830805</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171498000" />
+    <option name="totallyTimeSpent" value="188745000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -777,24 +882,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="987" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.14536741" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978308" visible="true" weight="0.14285715" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info id="Favorites" order="2" sideWeight="0.5021692" side_tool="true" weight="0.17537314" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49253732" weight="0.36536312" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3642458" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49253732" visible="true" weight="0.36550975" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36442515" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.324295" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49253732" weight="0.32502708" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5101279" side_tool="true" weight="0.39045554" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4989339" weight="0.375419" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.48987207" weight="0.38882682" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50586355" side_tool="true" weight="0.37635574" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49413645" weight="0.37635574" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.48987207" weight="0.38828632" />
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -859,26 +965,28 @@
     <MESSAGE value="测试" />
     <MESSAGE value="标准库" />
     <MESSAGE value="摄氏度与华氏度之间的转换" />
-    <option name="LAST_COMMIT_MESSAGE" value="摄氏度与华氏度之间的转换" />
+    <MESSAGE value="标准库turtle" />
+    <MESSAGE value="时间戳转换为指定格式日期" />
+    <option name="LAST_COMMIT_MESSAGE" value="时间戳转换为指定格式日期" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonDemo$doubanText.coverage" NAME="doubanText Coverage Results" MODIFIED="1558752684686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban/douban/spiders" />
-    <SUITE FILE_PATH="coverage/PythonDemo$douban__1_.coverage" NAME="douban (1) Coverage Results" MODIFIED="1558773897706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doubanmovie/doubanmovie/spiders" />
-    <SUITE FILE_PATH="coverage/PythonDemo$text3.coverage" NAME="text3 Coverage Results" MODIFIED="1558749226111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSpider" />
+    <SUITE FILE_PATH="coverage/PythonDemo$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1558772747697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSpider" />
+    <SUITE FILE_PATH="coverage/PythonDemo$turtle.coverage" NAME="turtle Coverage Results" MODIFIED="1559376761001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python标准库/turtle" />
+    <SUITE FILE_PATH="coverage/PythonDemo$douban.coverage" NAME="douban Coverage Results" MODIFIED="1558752903334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doubanText/doubanText/spiders" />
     <SUITE FILE_PATH="coverage/PythonDemo$index1.coverage" NAME="index1 Coverage Results" MODIFIED="1559374941119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBase" />
+    <SUITE FILE_PATH="coverage/PythonDemo$doubanText.coverage" NAME="doubanText Coverage Results" MODIFIED="1558752684686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban/douban/spiders" />
+    <SUITE FILE_PATH="coverage/PythonDemo$text3.coverage" NAME="text3 Coverage Results" MODIFIED="1558749226111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSpider" />
+    <SUITE FILE_PATH="coverage/PythonDemo$turtle1.coverage" NAME="turtle1 Coverage Results" MODIFIED="1559376926669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python标准库/turtle" />
+    <SUITE FILE_PATH="coverage/PythonDemo$douban__1_.coverage" NAME="douban (1) Coverage Results" MODIFIED="1558773897706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doubanmovie/doubanmovie/spiders" />
+    <SUITE FILE_PATH="coverage/PythonDemo$json.coverage" NAME="json Coverage Results" MODIFIED="1559354836744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python标准库/json" />
     <SUITE FILE_PATH="coverage/PythonDemo$index__1_.coverage" NAME="index (1) Coverage Results" MODIFIED="1559204950598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python标准库/os" />
+    <SUITE FILE_PATH="coverage/PythonDemo$datetime__1_.coverage" NAME="datetime (1) Coverage Results" MODIFIED="1559208309748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python标准库/datetime" />
     <SUITE FILE_PATH="coverage/PythonDemo$datetime.coverage" NAME="datetime Coverage Results" MODIFIED="1559208265951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python标准库" />
     <SUITE FILE_PATH="coverage/PythonDemo$index__2_.coverage" NAME="index (2) Coverage Results" MODIFIED="1559207622138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python标准库/re" />
-    <SUITE FILE_PATH="coverage/PythonDemo$index.coverage" NAME="index Coverage Results" MODIFIED="1559188601615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python标准库/sys" />
-    <SUITE FILE_PATH="coverage/PythonDemo$douban.coverage" NAME="douban Coverage Results" MODIFIED="1558752903334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doubanText/doubanText/spiders" />
-    <SUITE FILE_PATH="coverage/PythonDemo$turtle.coverage" NAME="turtle Coverage Results" MODIFIED="1559376761001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python标准库/turtle" />
-    <SUITE FILE_PATH="coverage/PythonDemo$turtle1.coverage" NAME="turtle1 Coverage Results" MODIFIED="1559376926669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python标准库/turtle" />
-    <SUITE FILE_PATH="coverage/PythonDemo$datetime__1_.coverage" NAME="datetime (1) Coverage Results" MODIFIED="1559208309748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python标准库/datetime" />
-    <SUITE FILE_PATH="coverage/PythonDemo$index2.coverage" NAME="index2 Coverage Results" MODIFIED="1559471163954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBase" />
-    <SUITE FILE_PATH="coverage/PythonDemo$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1558772747697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSpider" />
-    <SUITE FILE_PATH="coverage/PythonDemo$json.coverage" NAME="json Coverage Results" MODIFIED="1559354836744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python标准库/json" />
+    <SUITE FILE_PATH="coverage/PythonDemo$index.coverage" NAME="index Coverage Results" MODIFIED="1559548435599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/note/note/settings.py" />
     <entry file="file://$PROJECT_DIR$/jingdong/a.txt" />
     <entry file="file://$PROJECT_DIR$/jingdong/jingdong/spiders/catalog.py" />
     <entry file="file://$PROJECT_DIR$/doubanmovie/douban.html" />
@@ -983,20 +1091,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python标准库/datetime/datetime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python标准库/time/time.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/circ/data.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1005,12 +1099,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/text/main.py" />
-    <entry file="file://$PROJECT_DIR$/text/text.json" />
-    <entry file="file://$PROJECT_DIR$/text/log.log" />
-    <entry file="file://$PROJECT_DIR$/text/text/settings.py" />
-    <entry file="file://$PROJECT_DIR$/text/text/pipelines.py" />
-    <entry file="file://$PROJECT_DIR$/text/text/middlewares.py" />
-    <entry file="file://$PROJECT_DIR$/text/text/items.py" />
     <entry file="file://$PROJECT_DIR$/text/text/spiders/customer.py" />
     <entry file="file://$PROJECT_DIR$/Python标准库/codecs/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1043,61 +1131,116 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python标准库/turtle/test3.py">
+    <entry file="file://$PROJECT_DIR$/Python标准库/turtle/test1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <element signature="e#146#159#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="374">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python标准库/turtle/test2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding>
             <element signature="e#151#164#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python标准库/turtle/test1.py">
+    <entry file="file://$PROJECT_DIR$/Python标准库/turtle/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="e#146#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python标准库/datetime/datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python标准库/time/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/text/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/text/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="131" column="34" selection-start-line="131" selection-start-column="34" selection-end-line="131" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="47" lean-forward="true" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/log.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/text/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+          <folding>
+            <element signature="e#194#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/text/spiders/ipProxy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/text.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/text/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <caret line="133" selection-start-line="133" selection-end-line="145" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ip.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="193" column="24" selection-start-line="193" selection-start-column="23" selection-end-line="193" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/网络爬虫/Requests库/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/网络爬虫/Requests库/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/index2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/网络爬虫/Requests库/IP地址归属地自动查询/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="37" />
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
