@@ -26,7 +26,7 @@
       <sourceFolder url="file://$MODULE_DIR$/note" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/text" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.7 (Python)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (PythonDemo)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
